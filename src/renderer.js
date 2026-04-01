@@ -80,7 +80,7 @@ function generateSVG(state) {
 }
 
 function updateReadme(state) {
-    let recentLogs = state.logs.slice(0, 5).map(l => `- ${l}`).join('\\n');
+    let recentLogs = state.logs.slice(0, 5).map(l => `- ${l}`).join('\n');
     let totalBranches = state.trees.reduce((acc, t) => acc + t.branches.length, 0);
     let totalLeaves = state.trees.reduce((acc, t) => acc + t.leaves.length, 0);
     
@@ -107,7 +107,7 @@ ${recentLogs}
     
     // Also save the full chronicle
     fs.mkdirSync(path.dirname(LOG_FILE), { recursive: true });
-    let chronicle = `# The Chronicles of Yggdrasil\\n\\n${state.logs.map(l => `- ${l}`).join('\\n')}\\n`;
+    let chronicle = `# The Chronicles of Yggdrasil\n\n${state.logs.map(l => `- ${l}`).join('\n')}\n`;
     fs.writeFileSync(LOG_FILE, chronicle);
     
     console.log(`📝 README and Chronicles updated.`);

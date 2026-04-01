@@ -1,1 +1,18 @@
-# The Chronicles of Yggdrasil\n\n- 🌸 Midday bloom: The canopy thickened with 2 new foliage elements.\n- 🌿 Day 8: Sprouted 5 new branches.\n- 🌸 Midday bloom: The canopy thickened with 4 new foliage elements.\n- 🌿 Day 7: Sprouted 4 new branches.\n- 🌸 Midday bloom: The canopy thickened with 2 new foliage elements.\n- 🌿 Day 6: Sprouted 5 new branches.\n- 🌸 Midday bloom: The canopy thickened with 0 new foliage elements.\n- 🌿 Day 5: Sprouted 4 new branches.\n- 🌸 Midday bloom: The canopy thickened with 0 new foliage elements.\n- 🌿 Day 4: Sprouted 2 new branches.\n- 🌸 Midday bloom: The canopy thickened with 0 new foliage elements.\n- 🌿 Day 3: Sprouted 1 new branches.\n- 🌸 Midday bloom: The canopy thickened with 0 new foliage elements.\n- 🌿 Day 2: Sprouted 1 new branches.\n- 🌿 Day 1: Sprouted 1 new branches.\n- 🌱 A new seed was planted in the digital soil.\n
+# The Chronicles of Yggdrasil
+
+- 🌸 Midday bloom: The canopy thickened with 2 new foliage elements.
+- 🌿 Day 8: Sprouted 5 new branches.
+- 🌸 Midday bloom: The canopy thickened with 4 new foliage elements.
+- 🌿 Day 7: Sprouted 4 new branches.
+- 🌸 Midday bloom: The canopy thickened with 2 new foliage elements.
+- 🌿 Day 6: Sprouted 5 new branches.
+- 🌸 Midday bloom: The canopy thickened with 0 new foliage elements.
+- 🌿 Day 5: Sprouted 4 new branches.
+- 🌸 Midday bloom: The canopy thickened with 0 new foliage elements.
+- 🌿 Day 4: Sprouted 2 new branches.
+- 🌸 Midday bloom: The canopy thickened with 0 new foliage elements.
+- 🌿 Day 3: Sprouted 1 new branches.
+- 🌸 Midday bloom: The canopy thickened with 0 new foliage elements.
+- 🌿 Day 2: Sprouted 1 new branches.
+- 🌿 Day 1: Sprouted 1 new branches.
+- 🌱 A new seed was planted in the digital soil.

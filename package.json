@@ -1,0 +1,15 @@
+{
+  "name": "yggdrasil",
+  "version": "1.0.0",
+  "description": "The Living Forest",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "sprout": "node src/index.js sprout",
+    "bloom": "node src/index.js bloom",
+    "rest": "node src/index.js rest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

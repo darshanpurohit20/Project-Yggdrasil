@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="100%" height="100%">
+    <defs>
+        <linearGradient id="sky" x1="0%" y1="0%" x2="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#0f2027;stop-opacity:1" />
+            <stop offset="50%" style="stop-color:#203a43;stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#2c5364;stop-opacity:1" />
+        </linearGradient>
+        
+        <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+            <feGaussianBlur stdDeviation="5" result="blur" />
+            <feComposite in="SourceGraphic" in2="blur" operator="over" />
+        </filter>
+        
+        <radialGradient id="moon" cx="50%" cy="50%" r="50%">
+            <stop offset="0%" stop-color="#ffffff" stop-opacity="1" />
+            <stop offset="70%" stop-color="#f1c40f" stop-opacity="0.8" />
+            <stop offset="100%" stop-color="#f1c40f" stop-opacity="0" />
+        </radialGradient>
+    </defs>
+    
+    <!-- Background -->
+    <rect width="1000" height="1000" fill="url(#sky)" />
+    
+    <!-- Moon / Sun -->
+    <circle cx="200" cy="200" r="80" fill="url(#moon)" filter="url(#glow)" />
+    
+    <!-- Digital Soil -->
+    <path d="M0 980 Q 250 950 500 980 T 1000 980 L 1000 1000 L 0 1000 Z" fill="#1e272e" />
+    <path d="M0 990 Q 300 960 600 990 T 1000 990 L 1000 1000 L 0 1000 Z" fill="#2d3436" />
+    
+    <!-- Trees -->
+    <g id="forest">
+        <line x1="500" y1="1000" x2="500" y2="850" stroke="#5c4033" stroke-width="15" stroke-linecap="round" />
+        <line x1="500" y1="850" x2="501.05944029953736" y2="735.4470334181563" stroke="#5c4033" stroke-width="13.8" stroke-linecap="round" />
+        <line x1="501.05944029953736" y1="735.4470334181563" x2="495.3549952853318" y2="638.7667530564761" stroke="#5c4033" stroke-width="12.6" stroke-linecap="round" />
+        <line x1="495.3549952853318" y1="638.7667530564761" x2="485.29820967683685" y2="557.034204070455" stroke="#5c4033" stroke-width="11.4" stroke-linecap="round" />
+        <line x1="485.29820967683685" y1="557.034204070455" x2="449.97111710162784" y2="493.87787750949644" stroke="#6d4c41" stroke-width="10.2" stroke-linecap="round" />
+        <line x1="485.29820967683685" y1="557.034204070455" x2="503.2930161031866" y2="493.34763292859736" stroke="#6d4c41" stroke-width="10.2" stroke-linecap="round" />
+        <line x1="449.97111710162784" y1="493.87787750949644" x2="399.9866095674083" y2="453.6759098156347" stroke="#6d4c41" stroke-width="9" stroke-linecap="round" />
+        <line x1="449.97111710162784" y1="493.87787750949644" x2="430.2206964525847" y2="431.85401610613405" stroke="#6d4c41" stroke-width="9" stroke-linecap="round" />
+        <line x1="503.2930161031866" y1="493.34763292859736" x2="491.23764021011766" y2="441.4711864162684" stroke="#6d4c41" stroke-width="9" stroke-linecap="round" />
+        <line x1="503.2930161031866" y1="493.34763292859736" x2="533.455023616931" y2="445.89786346789316" stroke="#6d4c41" stroke-width="9" stroke-linecap="round" />
+        <line x1="430.2206964525847" y1="431.85401610613405" x2="396.15599660355156" y2="396.5248613053149" stroke="#6d4c41" stroke-width="7.800000000000001" stroke-linecap="round" />
+        <line x1="430.2206964525847" y1="431.85401610613405" x2="427.90767594615573" y2="370.6143462663901" stroke="#6d4c41" stroke-width="7.800000000000001" stroke-linecap="round" />
+        <line x1="491.23764021011766" y1="441.4711864162684" x2="471.25269292476844" y2="402.9081083559872" stroke="#6d4c41" stroke-width="7.800000000000001" stroke-linecap="round" />
+        <line x1="491.23764021011766" y1="441.4711864162684" x2="491.11102240372486" y2="391.6566135841653" stroke="#6d4c41" stroke-width="7.800000000000001" stroke-linecap="round" />
+        <line x1="533.455023616931" y1="445.89786346789316" x2="554.0694036943986" y2="407.7481155608332" stroke="#6d4c41" stroke-width="7.800000000000001" stroke-linecap="round" />
+        <line x1="396.15599660355156" y1="396.5248613053149" x2="363.99936042548524" y2="365.7837504628066" stroke="#8d6e63" stroke-width="6.6" stroke-linecap="round" />
+        <line x1="427.90767594615573" y1="370.6143462663901" x2="427.451384142909" y2="323.70995402385205" stroke="#8d6e63" stroke-width="6.6" stroke-linecap="round" />
+        <line x1="491.11102240372486" y1="391.6566135841653" x2="489.3501287411025" y2="346.8255667604952" stroke="#8d6e63" stroke-width="6.6" stroke-linecap="round" />
+        <line x1="554.0694036943986" y1="407.7481155608332" x2="571.7671607718191" y2="376.3072867351894" stroke="#8d6e63" stroke-width="6.6" stroke-linecap="round" />
+        <line x1="363.99936042548524" y1="365.7837504628066" x2="339.1594292430066" y2="337.8674075627937" stroke="#8d6e63" stroke-width="5.4" stroke-linecap="round" />
+        <line x1="427.451384142909" y1="323.70995402385205" x2="426.09473518197933" y2="280.80900965222753" stroke="#8d6e63" stroke-width="5.4" stroke-linecap="round" />
+        <line x1="489.3501287411025" y1="346.8255667604952" x2="479.2416196357184" y2="308.4212600051958" stroke="#8d6e63" stroke-width="5.4" stroke-linecap="round" />
+        <line x1="489.3501287411025" y1="346.8255667604952" x2="505.0216994197552" y2="308.6503341272876" stroke="#8d6e63" stroke-width="5.4" stroke-linecap="round" />
+        <line x1="571.7671607718191" y1="376.3072867351894" x2="587.6363260258153" y2="351.04131370471566" stroke="#8d6e63" stroke-width="5.4" stroke-linecap="round" />
+        <circle cx="430.1034261642416" cy="378.8301825415408" r="6.765584554265289" fill="#f1c40f" opacity="0.85" filter="url(#glow)" />
+        <circle cx="546.1091889285146" cy="398.37443671028507" r="4.128603509447014" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <circle cx="402.41016969791417" cy="386.5945698121699" r="3.5373956859521463" fill="#27ae60" opacity="0.85" filter="url(#glow)" />
+        <circle cx="488.37860675546824" cy="389.88215737482113" r="4.882915285521815" fill="#e74c3c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="432.27129433540284" cy="320.73226296172487" r="4.646056888222926" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <circle cx="496.79175601789194" cy="350.1304471205865" r="6.602162445743001" fill="#27ae60" opacity="0.85" filter="url(#glow)" />
+        <circle cx="493.37174936022876" cy="450.91556941577534" r="6.630601762102721" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <circle cx="471.26546275404894" cy="396.42861269932314" r="3.3284829227223183" fill="#27ae60" opacity="0.85" filter="url(#glow)" />
+
+    </g>
+    
+    <!-- Stats Overlay -->
+    <text x="30" y="50" fill="#ecf0f1" font-family="monospace" font-size="20">Project Yggdrasil // Epoch 8</text>
+    <text x="30" y="80" fill="#bdc3c7" font-family="monospace" font-size="14">Trees: 1</text>
+    <text x="30" y="100" fill="#bdc3c7" font-family="monospace" font-size="14">Branches: 24</text>
+    <text x="30" y="120" fill="#bdc3c7" font-family="monospace" font-size="14">Foliage: 8</text>
+</svg>

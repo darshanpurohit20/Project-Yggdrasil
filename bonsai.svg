@@ -54,6 +54,11 @@
         <line x1="489.3501287411025" y1="346.8255667604952" x2="479.2416196357184" y2="308.4212600051958" stroke="#8d6e63" stroke-width="5.4" stroke-linecap="round" />
         <line x1="489.3501287411025" y1="346.8255667604952" x2="505.0216994197552" y2="308.6503341272876" stroke="#8d6e63" stroke-width="5.4" stroke-linecap="round" />
         <line x1="571.7671607718191" y1="376.3072867351894" x2="587.6363260258153" y2="351.04131370471566" stroke="#8d6e63" stroke-width="5.4" stroke-linecap="round" />
+        <line x1="339.1594292430066" y1="337.8674075627937" x2="316.8971792614205" y2="316.6486556828854" stroke="#8d6e63" stroke-width="4.200000000000001" stroke-linecap="round" />
+        <line x1="426.09473518197933" y1="280.80900965222753" x2="424.6402151598423" y2="247.53102406298976" stroke="#8d6e63" stroke-width="4.200000000000001" stroke-linecap="round" />
+        <line x1="479.2416196357184" y1="308.4212600051958" x2="472.7982048018858" y2="275.6185449889516" stroke="#8d6e63" stroke-width="4.200000000000001" stroke-linecap="round" />
+        <line x1="505.0216994197552" y1="308.6503341272876" x2="520.0238292619366" y2="279.78338517957116" stroke="#8d6e63" stroke-width="4.200000000000001" stroke-linecap="round" />
+        <line x1="587.6363260258153" y1="351.04131370471566" x2="601.7732500657673" y2="332.6247867483816" stroke="#8d6e63" stroke-width="4.200000000000001" stroke-linecap="round" />
         <circle cx="430.1034261642416" cy="378.8301825415408" r="6.765584554265289" fill="#f1c40f" opacity="0.85" filter="url(#glow)" />
         <circle cx="546.1091889285146" cy="398.37443671028507" r="4.128603509447014" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
         <circle cx="402.41016969791417" cy="386.5945698121699" r="3.5373956859521463" fill="#27ae60" opacity="0.85" filter="url(#glow)" />
@@ -73,8 +78,8 @@
     </g>
     
     <!-- Stats Overlay -->
-    <text x="30" y="50" fill="#ecf0f1" font-family="monospace" font-size="20">Project Yggdrasil // Epoch 8</text>
+    <text x="30" y="50" fill="#ecf0f1" font-family="monospace" font-size="20">Project Yggdrasil // Epoch 9</text>
     <text x="30" y="80" fill="#bdc3c7" font-family="monospace" font-size="14">Trees: 1</text>
-    <text x="30" y="100" fill="#bdc3c7" font-family="monospace" font-size="14">Branches: 24</text>
+    <text x="30" y="100" fill="#bdc3c7" font-family="monospace" font-size="14">Branches: 29</text>
     <text x="30" y="120" fill="#bdc3c7" font-family="monospace" font-size="14">Foliage: 15</text>
 </svg>

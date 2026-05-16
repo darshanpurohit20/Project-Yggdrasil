@@ -88,6 +88,12 @@
         <circle cx="565.281704310267" cy="378.24871876835743" r="3.5420629945229094" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
         <circle cx="583.8821557149918" cy="347.7070804358219" r="4.2218304967050075" fill="#f1c40f" opacity="0.85" filter="url(#glow)" />
         <circle cx="326.86846849657684" cy="316.1629554851208" r="6.365766631099472" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="391.81602946052726" cy="463.43405518712535" r="5.7487985335067595" fill="#27ae60" opacity="0.85" filter="url(#glow)" />
+        <circle cx="418.9854707070032" cy="379.52432936872634" r="5.117637160285618" fill="#27ae60" opacity="0.85" filter="url(#glow)" />
+        <circle cx="467.1425911693125" cy="407.1045894060825" r="7.764372941202134" fill="#f1c40f" opacity="0.85" filter="url(#glow)" />
+        <circle cx="581.0680046107944" cy="349.74045289203525" r="5.937617894463136" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <circle cx="522.9045104564027" cy="279.2686440740868" r="4.771576005737307" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <circle cx="436.1478219269129" cy="219.17736664637056" r="6.763290724222658" fill="#e74c3c" opacity="0.85" filter="url(#glow)" />
 
     </g>
     
@@ -95,5 +101,5 @@
     <text x="30" y="50" fill="#ecf0f1" font-family="monospace" font-size="20">Project Yggdrasil // Epoch 10</text>
     <text x="30" y="80" fill="#bdc3c7" font-family="monospace" font-size="14">Trees: 1</text>
     <text x="30" y="100" fill="#bdc3c7" font-family="monospace" font-size="14">Branches: 37</text>
-    <text x="30" y="120" fill="#bdc3c7" font-family="monospace" font-size="14">Foliage: 21</text>
+    <text x="30" y="120" fill="#bdc3c7" font-family="monospace" font-size="14">Foliage: 27</text>
 </svg>

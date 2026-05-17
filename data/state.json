@@ -1,5 +1,5 @@
 {
-  "day": 10,
+  "day": 11,
   "trees": [
     {
       "id": "tree_0",
@@ -334,7 +334,7 @@
           "angle": -1.306370777147473,
           "length": 23.22626328780161,
           "depth": 10,
-          "active": true
+          "active": false
         },
         {
           "id": "b_tree_0_30",
@@ -345,7 +345,7 @@
           "angle": -0.5283949927447769,
           "length": 27.273234619606566,
           "depth": 10,
-          "active": true
+          "active": false
         },
         {
           "id": "b_tree_0_31",
@@ -356,7 +356,7 @@
           "angle": -0.4547304628315759,
           "length": 31.625442037063205,
           "depth": 10,
-          "active": true
+          "active": false
         },
         {
           "id": "b_tree_0_32",
@@ -367,7 +367,7 @@
           "angle": 0.28269936227963266,
           "length": 24.99363631062293,
           "depth": 10,
-          "active": true
+          "active": false
         },
         {
           "id": "b_tree_0_33",
@@ -378,7 +378,7 @@
           "angle": -0.136103641235502,
           "length": 27.843191616720063,
           "depth": 10,
-          "active": true
+          "active": false
         },
         {
           "id": "b_tree_0_34",
@@ -389,7 +389,7 @@
           "angle": 0.03183069664508714,
           "length": 26.519259893714654,
           "depth": 10,
-          "active": true
+          "active": false
         },
         {
           "id": "b_tree_0_35",
@@ -400,7 +400,7 @@
           "angle": 0.9814703393587347,
           "length": 27.42035589858804,
           "depth": 10,
-          "active": true
+          "active": false
         },
         {
           "id": "b_tree_0_36",
@@ -411,7 +411,7 @@
           "angle": 0.622387731728949,
           "length": 20.75817748200363,
           "depth": 10,
-          "active": true
+          "active": false
         }
       ],
       "leaves": [
@@ -581,6 +581,7 @@
     }
   ],
   "logs": [
+    "🌿 Day 11: The morning sun encourages new growth.",
     "🌙 Evening rests the ecosystem. Day 10 comes to a close.",
     "🌸 Midday bloom: The canopy thickened with 6 new foliage elements.",
     "🌿 Day 10: Sprouted 8 new branches.",

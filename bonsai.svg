@@ -102,6 +102,18 @@
         <circle cx="510.8539171997012" cy="274.3659964404147" r="5.2750966041732035" fill="#e74c3c" opacity="0.85" filter="url(#glow)" />
         <circle cx="300.9158398166379" cy="287.72126844198135" r="4.720934268265499" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
         <circle cx="470.4090868362075" cy="246.25469986746364" r="6.178081987214196" fill="#27ae60" opacity="0.85" filter="url(#glow)" />
+        <circle cx="535.755749503252" cy="454.6499550925765" r="6.248249130707873" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <circle cx="391.2247008393846" cy="403.8036037813473" r="7.840151280839344" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="486.3081061531365" cy="388.0924443031943" r="6.000947716380056" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <circle cx="555.3782031871677" cy="406.5896722066242" r="4.159118147643312" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="493.407247472727" cy="345.8744219297565" r="4.064880453893292" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="573.8766898103398" cy="367.1847544874821" r="7.369941029029084" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <circle cx="596.4329804817327" cy="352.0413231495826" r="5.023800968880332" fill="#27ae60" opacity="0.85" filter="url(#glow)" />
+        <circle cx="312.8826763400911" cy="318.62229319097776" r="3.638265434241708" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="421.60542895443405" cy="250.6595952826002" r="3.6717591809977375" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <circle cx="306.20268489765544" cy="287.8690315499355" r="6.822577172347412" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <circle cx="432.1257296577505" cy="232.2096831088704" r="4.349622588894459" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <circle cx="615.9488071346168" cy="324.6996593589705" r="4.064068054454729" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
         <line x1="597.9894385515931" y1="1000" x2="597.9894385515931" y2="887.3174857422222" stroke="#5c4033" stroke-width="15" stroke-linecap="round" />
         <line x1="597.9894385515931" y1="887.3174857422222" x2="589.1852562668811" y2="764.592974068426" stroke="#5c4033" stroke-width="13.8" stroke-linecap="round" />
 
@@ -111,5 +123,5 @@
     <text x="30" y="50" fill="#ecf0f1" font-family="monospace" font-size="20">Project Yggdrasil // Epoch 12</text>
     <text x="30" y="80" fill="#bdc3c7" font-family="monospace" font-size="14">Trees: 2</text>
     <text x="30" y="100" fill="#bdc3c7" font-family="monospace" font-size="14">Branches: 39</text>
-    <text x="30" y="120" fill="#bdc3c7" font-family="monospace" font-size="14">Foliage: 35</text>
+    <text x="30" y="120" fill="#bdc3c7" font-family="monospace" font-size="14">Foliage: 47</text>
 </svg>

@@ -1,10 +1,10 @@
 {
-  "day": 11,
+  "day": 12,
   "trees": [
     {
       "id": "tree_0",
       "rootX": 500,
-      "active": true,
+      "active": false,
       "branches": [
         {
           "id": "b_0_0",
@@ -626,9 +626,40 @@
           "color": "#27ae60"
         }
       ]
+    },
+    {
+      "id": "tree_1",
+      "rootX": 597.9894385515931,
+      "active": true,
+      "branches": [
+        {
+          "id": "b_1_0",
+          "x1": 597.9894385515931,
+          "y1": 1000,
+          "x2": 597.9894385515931,
+          "y2": 887.3174857422222,
+          "angle": -0.06799158664704744,
+          "length": 145.2940855554418,
+          "depth": 0,
+          "active": false
+        },
+        {
+          "id": "b_tree_1_1",
+          "x1": 597.9894385515931,
+          "y1": 887.3174857422222,
+          "x2": 589.1852562668811,
+          "y2": 764.592974068426,
+          "angle": -0.07161670426295791,
+          "length": 123.03990974994325,
+          "depth": 1,
+          "active": true
+        }
+      ],
+      "leaves": []
     }
   ],
   "logs": [
+    "🌿 Day 12: Sprouted 1 new branches.",
     "🌙 Evening rests the ecosystem. Day 11 comes to a close.",
     "🌸 Midday bloom: The canopy thickened with 8 new foliage elements.",
     "🌿 Day 11: The morning sun encourages new growth.",

@@ -1,5 +1,5 @@
 {
-  "day": 12,
+  "day": 13,
   "trees": [
     {
       "id": "tree_0",
@@ -724,6 +724,28 @@
           "angle": -0.07161670426295791,
           "length": 123.03990974994325,
           "depth": 1,
+          "active": false
+        },
+        {
+          "id": "b_tree_1_2",
+          "x1": 589.1852562668811,
+          "y1": 764.592974068426,
+          "x2": 555.0362707136089,
+          "y2": 670.4880593506226,
+          "angle": -0.34810463476213793,
+          "length": 100.10938112066535,
+          "depth": 2,
+          "active": true
+        },
+        {
+          "id": "b_tree_1_3",
+          "x1": 589.1852562668811,
+          "y1": 764.592974068426,
+          "x2": 627.8575139551184,
+          "y2": 674.4509945916213,
+          "angle": 0.40526643339603163,
+          "length": 98.08730793890768,
+          "depth": 2,
           "active": true
         }
       ],
@@ -731,6 +753,7 @@
     }
   ],
   "logs": [
+    "🌿 Day 13: Sprouted 2 new branches.",
     "🌙 Evening rests the ecosystem. Day 12 comes to a close.",
     "🌸 Midday bloom: The canopy thickened with 12 new foliage elements.",
     "🌿 Day 12: Sprouted 1 new branches.",
@@ -759,7 +782,6 @@
     "🌿 Day 3: Sprouted 1 new branches.",
     "🌸 Midday bloom: The canopy thickened with 0 new foliage elements.",
     "🌿 Day 2: Sprouted 1 new branches.",
-    "🌿 Day 1: Sprouted 1 new branches.",
-    "🌱 A new seed was planted in the digital soil."
+    "🌿 Day 1: Sprouted 1 new branches."
   ]
 }

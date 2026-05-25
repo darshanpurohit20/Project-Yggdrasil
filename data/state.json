@@ -1,5 +1,5 @@
 {
-  "day": 18,
+  "day": 19,
   "trees": [
     {
       "id": "tree_0",
@@ -1210,7 +1210,7 @@
           "angle": -0.3454913486855127,
           "length": 39.74401702417575,
           "depth": 7,
-          "active": true
+          "active": false
         },
         {
           "id": "b_tree_1_14",
@@ -1221,7 +1221,7 @@
           "angle": -0.5354109553806512,
           "length": 45.96361933846462,
           "depth": 7,
-          "active": true
+          "active": false
         },
         {
           "id": "b_tree_1_15",
@@ -1232,6 +1232,39 @@
           "angle": 0.6241747794522257,
           "length": 46.15375792459338,
           "depth": 7,
+          "active": false
+        },
+        {
+          "id": "b_tree_1_16",
+          "x1": 470.424950653532,
+          "y1": 389.8286231006569,
+          "x2": 460.5109640433585,
+          "y2": 359.5611109881215,
+          "angle": -0.31653246806246876,
+          "length": 31.84979466164852,
+          "depth": 8,
+          "active": true
+        },
+        {
+          "id": "b_tree_1_17",
+          "x1": 483.6661612470278,
+          "y1": 378.82742326182614,
+          "x2": 460.11678999895304,
+          "y2": 342.3467907139046,
+          "angle": -0.5732269963156671,
+          "length": 43.42130165340645,
+          "depth": 8,
+          "active": true
+        },
+        {
+          "id": "b_tree_1_18",
+          "x1": 534.0900898685583,
+          "y1": 380.9075819687141,
+          "x2": 558.3602488430764,
+          "y2": 352.992082369182,
+          "angle": 0.7156581448596079,
+          "length": 36.990752013710996,
+          "depth": 8,
           "active": true
         }
       ],
@@ -1264,6 +1297,7 @@
     }
   ],
   "logs": [
+    "🌿 Day 19: Sprouted 3 new branches.",
     "🌙 Evening rests the ecosystem. Day 18 comes to a close.",
     "🌸 Midday bloom: The canopy thickened with 13 new foliage elements.",
     "🌿 Day 18: Sprouted 3 new branches.",
@@ -1292,7 +1326,6 @@
     "🌸 Midday bloom: The canopy thickened with 6 new foliage elements.",
     "🌿 Day 10: Sprouted 8 new branches.",
     "🌙 Evening rests the ecosystem. Day 9 comes to a close.",
-    "🌸 Midday bloom: The canopy thickened with 6 new foliage elements.",
-    "🌿 Day 9: Sprouted 5 new branches."
+    "🌸 Midday bloom: The canopy thickened with 6 new foliage elements."
   ]
 }

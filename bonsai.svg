@@ -219,6 +219,9 @@
         <line x1="470.424950653532" y1="389.8286231006569" x2="460.5109640433585" y2="359.5611109881215" stroke="#8d6e63" stroke-width="5.4" stroke-linecap="round" />
         <line x1="483.6661612470278" y1="378.82742326182614" x2="460.11678999895304" y2="342.3467907139046" stroke="#8d6e63" stroke-width="5.4" stroke-linecap="round" />
         <line x1="534.0900898685583" y1="380.9075819687141" x2="558.3602488430764" y2="352.992082369182" stroke="#8d6e63" stroke-width="5.4" stroke-linecap="round" />
+        <line x1="460.5109640433585" y1="359.5611109881215" x2="450.1408704948128" y2="332.3083208959624" stroke="#8d6e63" stroke-width="4.200000000000001" stroke-linecap="round" />
+        <line x1="460.11678999895304" y1="342.3467907139046" x2="442.63714104208475" y2="313.05097333484616" stroke="#8d6e63" stroke-width="4.200000000000001" stroke-linecap="round" />
+        <line x1="558.3602488430764" y1="352.992082369182" x2="582.1715558674285" y2="330.23094205126375" stroke="#8d6e63" stroke-width="4.200000000000001" stroke-linecap="round" />
         <circle cx="509.1598243828554" cy="478.62236404478296" r="4.843982580921803" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
         <circle cx="706.4972842019282" cy="490.4343372518603" r="6.603570075183886" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
         <circle cx="506.6638232036163" cy="479.1037765808512" r="4.319098732491074" fill="#e84393" opacity="0.85" filter="url(#glow)" />
@@ -239,8 +242,8 @@
     </g>
     
     <!-- Stats Overlay -->
-    <text x="30" y="50" fill="#ecf0f1" font-family="monospace" font-size="20">Project Yggdrasil // Epoch 19</text>
+    <text x="30" y="50" fill="#ecf0f1" font-family="monospace" font-size="20">Project Yggdrasil // Epoch 20</text>
     <text x="30" y="80" fill="#bdc3c7" font-family="monospace" font-size="14">Trees: 2</text>
-    <text x="30" y="100" fill="#bdc3c7" font-family="monospace" font-size="14">Branches: 56</text>
+    <text x="30" y="100" fill="#bdc3c7" font-family="monospace" font-size="14">Branches: 59</text>
     <text x="30" y="120" fill="#bdc3c7" font-family="monospace" font-size="14">Foliage: 149</text>
 </svg>

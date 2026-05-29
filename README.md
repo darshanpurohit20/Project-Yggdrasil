@@ -11,11 +11,11 @@
 - **Total Foliage:** 177
 
 ### 📖 Botanist's Log (Latest entries)
+- 🌙 Evening rests the ecosystem. Day 21 comes to a close.
 - 🌸 Midday bloom: The canopy thickened with 17 new foliage elements.
 - 🌿 Day 21: Sprouted 4 new branches.
 - 🌙 Evening rests the ecosystem. Day 20 comes to a close.
 - 🌸 Midday bloom: The canopy thickened with 11 new foliage elements.
-- 🌿 Day 20: Sprouted 3 new branches.
 
 ---
 *Generated procedurally by GitHub Actions. This repository is alive.*

@@ -1,5 +1,5 @@
 {
-  "day": 22,
+  "day": 23,
   "trees": [
     {
       "id": "tree_0",
@@ -1386,7 +1386,7 @@
     {
       "id": "tree_1",
       "rootX": 597.9894385515931,
-      "active": true,
+      "active": false,
       "branches": [
         {
           "id": "b_1_0",
@@ -1851,9 +1851,40 @@
           "color": "#2ecc71"
         }
       ]
+    },
+    {
+      "id": "tree_2",
+      "rootX": 350.00083094618367,
+      "active": true,
+      "branches": [
+        {
+          "id": "b_2_0",
+          "x1": 350.00083094618367,
+          "y1": 1000,
+          "x2": 350.00083094618367,
+          "y2": 854.078749919197,
+          "angle": -0.0712401136570697,
+          "length": 119.28866288160884,
+          "depth": 0,
+          "active": false
+        },
+        {
+          "id": "b_tree_2_1",
+          "x1": 350.00083094618367,
+          "y1": 854.078749919197,
+          "x2": 349.6972773556248,
+          "y2": 759.8372771989357,
+          "angle": -0.003221008034122147,
+          "length": 94.2419615949609,
+          "depth": 1,
+          "active": true
+        }
+      ],
+      "leaves": []
     }
   ],
   "logs": [
+    "🌿 Day 23: Sprouted 1 new branches.",
     "🌙 Evening rests the ecosystem. Day 22 comes to a close.",
     "🌸 Midday bloom: The canopy thickened with 13 new foliage elements.",
     "🌿 Day 22: The morning sun encourages new growth.",
@@ -1882,7 +1913,6 @@
     "🌙 Evening rests the ecosystem. Day 15 comes to a close.",
     "🌸 Midday bloom: The canopy thickened with 10 new foliage elements.",
     "🌿 Day 15: Sprouted 2 new branches.",
-    "🌙 Evening rests the ecosystem. Day 14 comes to a close.",
-    "🌸 Midday bloom: The canopy thickened with 11 new foliage elements."
+    "🌙 Evening rests the ecosystem. Day 14 comes to a close."
   ]
 }

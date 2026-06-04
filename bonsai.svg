@@ -339,12 +339,16 @@
         <line x1="327.72307809777914" y1="613.9444159649612" x2="291.1476575376841" y2="571.0763521933634" stroke="#6d4c41" stroke-width="10.2" stroke-linecap="round" />
         <line x1="327.72307809777914" y1="613.9444159649612" x2="343.54755744400615" y2="553.8871397782572" stroke="#6d4c41" stroke-width="10.2" stroke-linecap="round" />
         <line x1="383.14956719613883" y1="622.9661253333555" x2="408.503970130326" y2="568.385857213026" stroke="#6d4c41" stroke-width="10.2" stroke-linecap="round" />
+        <line x1="291.1476575376841" y1="571.0763521933634" x2="253.16372425174066" y2="544.230332229304" stroke="#6d4c41" stroke-width="9" stroke-linecap="round" />
+        <line x1="291.1476575376841" y1="571.0763521933634" x2="274.4960520982965" y2="522.9873316286383" stroke="#6d4c41" stroke-width="9" stroke-linecap="round" />
+        <line x1="343.54755744400615" y1="553.8871397782572" x2="346.05912334273387" y2="496.6523753639477" stroke="#6d4c41" stroke-width="9" stroke-linecap="round" />
+        <line x1="343.54755744400615" y1="553.8871397782572" x2="380.43369029670583" y2="510.74988121440543" stroke="#6d4c41" stroke-width="9" stroke-linecap="round" />
 
     </g>
     
     <!-- Stats Overlay -->
-    <text x="30" y="50" fill="#ecf0f1" font-family="monospace" font-size="20">Project Yggdrasil // Epoch 26</text>
+    <text x="30" y="50" fill="#ecf0f1" font-family="monospace" font-size="20">Project Yggdrasil // Epoch 27</text>
     <text x="30" y="80" fill="#bdc3c7" font-family="monospace" font-size="14">Trees: 3</text>
-    <text x="30" y="100" fill="#bdc3c7" font-family="monospace" font-size="14">Branches: 71</text>
+    <text x="30" y="100" fill="#bdc3c7" font-family="monospace" font-size="14">Branches: 75</text>
     <text x="30" y="120" fill="#bdc3c7" font-family="monospace" font-size="14">Foliage: 238</text>
 </svg>

@@ -1,5 +1,5 @@
 {
-  "day": 29,
+  "day": 30,
   "trees": [
     {
       "id": "tree_0",
@@ -2605,7 +2605,7 @@
           "angle": -1.3254859464355466,
           "length": 36.085192616351954,
           "depth": 7,
-          "active": true
+          "active": false
         },
         {
           "id": "b_tree_2_18",
@@ -2616,7 +2616,7 @@
           "angle": -0.4978122708974101,
           "length": 32.23851961516285,
           "depth": 7,
-          "active": true
+          "active": false
         },
         {
           "id": "b_tree_2_19",
@@ -2627,7 +2627,7 @@
           "angle": -0.7476772547195703,
           "length": 35.235414248159465,
           "depth": 7,
-          "active": true
+          "active": false
         },
         {
           "id": "b_tree_2_20",
@@ -2638,7 +2638,7 @@
           "angle": 0.3234356093156072,
           "length": 33.10384419789072,
           "depth": 7,
-          "active": true
+          "active": false
         },
         {
           "id": "b_tree_2_21",
@@ -2649,6 +2649,72 @@
           "angle": 0.09921475140779262,
           "length": 34.9667342593955,
           "depth": 7,
+          "active": false
+        },
+        {
+          "id": "b_tree_2_22",
+          "x1": 184.17282655258805,
+          "y1": 510.9774584014924,
+          "x2": 155.1501245085904,
+          "y2": 510.293343502708,
+          "angle": -1.5472289747266437,
+          "length": 29.030763805477175,
+          "depth": 8,
+          "active": true
+        },
+        {
+          "id": "b_tree_2_23",
+          "x1": 184.17282655258805,
+          "y1": 510.9774584014924,
+          "x2": 158.54692095545946,
+          "y2": 489.19821484559753,
+          "angle": -0.866365160399037,
+          "length": 33.630677774019595,
+          "depth": 8,
+          "active": true
+        },
+        {
+          "id": "b_tree_2_24",
+          "x1": 203.78366289643972,
+          "y1": 491.4153069709463,
+          "x2": 190.24778092379967,
+          "y2": 469.48459351792195,
+          "angle": -0.5529787644582509,
+          "length": 25.771617980559615,
+          "depth": 8,
+          "active": true
+        },
+        {
+          "id": "b_tree_2_25",
+          "x1": 223.38840558547957,
+          "y1": 466.8519424977974,
+          "x2": 202.65402937119885,
+          "y2": 441.83551263428865,
+          "angle": -0.6920748833297677,
+          "length": 32.49209319374762,
+          "depth": 8,
+          "active": true
+        },
+        {
+          "id": "b_tree_2_26",
+          "x1": 295.25322621375096,
+          "y1": 449.38392590184026,
+          "x2": 298.13996708451464,
+          "y2": 422.0745701084518,
+          "angle": 0.10531411475277996,
+          "length": 27.46150372257168,
+          "depth": 8,
+          "active": true
+        },
+        {
+          "id": "b_tree_2_27",
+          "x1": 295.25322621375096,
+          "y1": 449.38392590184026,
+          "x2": 316.7343475782755,
+          "y2": 428.14269415617986,
+          "angle": 0.7910131887945602,
+          "length": 30.209741825283523,
+          "depth": 8,
           "active": true
         }
       ],
@@ -2693,6 +2759,7 @@
     }
   ],
   "logs": [
+    "🌿 Day 30: Sprouted 6 new branches.",
     "🌙 Evening rests the ecosystem. Day 29 comes to a close.",
     "🌸 Midday bloom: The canopy thickened with 15 new foliage elements.",
     "🌿 Day 29: Sprouted 5 new branches.",
@@ -2721,7 +2788,6 @@
     "🌸 Midday bloom: The canopy thickened with 17 new foliage elements.",
     "🌿 Day 21: Sprouted 4 new branches.",
     "🌙 Evening rests the ecosystem. Day 20 comes to a close.",
-    "🌸 Midday bloom: The canopy thickened with 11 new foliage elements.",
-    "🌿 Day 20: Sprouted 3 new branches."
+    "🌸 Midday bloom: The canopy thickened with 11 new foliage elements."
   ]
 }

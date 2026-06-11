@@ -517,12 +517,14 @@
         <circle cx="104.84117829770864" cy="478.11791808333436" r="7.072535933192581" fill="#e84393" opacity="0.85" filter="url(#glow)" />
         <circle cx="167.85144691242837" cy="405.9527276854737" r="4.64112261170398" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
         <circle cx="338.5369746763765" cy="389.7070757437117" r="6.382774741906712" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <line x1="674.235702381367" y1="1000" x2="674.235702381367" y2="829.5071871929894" stroke="#5c4033" stroke-width="15" stroke-linecap="round" />
+        <line x1="674.235702381367" y1="829.5071871929894" x2="667.7203938849301" y2="699.7139795532441" stroke="#5c4033" stroke-width="13.8" stroke-linecap="round" />
 
     </g>
     
     <!-- Stats Overlay -->
-    <text x="30" y="50" fill="#ecf0f1" font-family="monospace" font-size="20">Project Yggdrasil // Epoch 33</text>
-    <text x="30" y="80" fill="#bdc3c7" font-family="monospace" font-size="14">Trees: 3</text>
-    <text x="30" y="100" fill="#bdc3c7" font-family="monospace" font-size="14">Branches: 111</text>
+    <text x="30" y="50" fill="#ecf0f1" font-family="monospace" font-size="20">Project Yggdrasil // Epoch 34</text>
+    <text x="30" y="80" fill="#bdc3c7" font-family="monospace" font-size="14">Trees: 4</text>
+    <text x="30" y="100" fill="#bdc3c7" font-family="monospace" font-size="14">Branches: 113</text>
     <text x="30" y="120" fill="#bdc3c7" font-family="monospace" font-size="14">Foliage: 376</text>
 </svg>

@@ -1,5 +1,6 @@
 # The Chronicles of Yggdrasil
 
+- 🌸 Midday bloom: The canopy thickened with 22 new foliage elements.
 - 🌿 Day 36: Sprouted 1 new branches.
 - 🌙 Evening rests the ecosystem. Day 35 comes to a close.
 - 🌸 Midday bloom: The canopy thickened with 22 new foliage elements.
@@ -29,4 +30,3 @@
 - 🌸 Midday bloom: The canopy thickened with 20 new foliage elements.
 - 🌿 Day 27: Sprouted 4 new branches.
 - 🌙 Evening rests the ecosystem. Day 26 comes to a close.
-- 🌸 Midday bloom: The canopy thickened with 13 new foliage elements.

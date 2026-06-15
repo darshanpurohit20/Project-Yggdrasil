@@ -1,5 +1,5 @@
 {
-  "day": 37,
+  "day": 38,
   "trees": [
     {
       "id": "tree_0",
@@ -4133,7 +4133,7 @@
           "angle": -0.36453377604972825,
           "length": 69.77744796074248,
           "depth": 4,
-          "active": true
+          "active": false
         },
         {
           "id": "b_tree_3_5",
@@ -4144,6 +4144,39 @@
           "angle": 0.19075857765643167,
           "length": 63.66663681881531,
           "depth": 4,
+          "active": false
+        },
+        {
+          "id": "b_tree_3_6",
+          "x1": 639.3817029913229,
+          "y1": 444.7537398891843,
+          "x2": 592.8705430810961,
+          "y2": 401.4987145359314,
+          "angle": -0.8216557760884311,
+          "length": 63.516023289444334,
+          "depth": 5,
+          "active": true
+        },
+        {
+          "id": "b_tree_3_7",
+          "x1": 639.3817029913229,
+          "y1": 444.7537398891843,
+          "x2": 648.3173265248715,
+          "y2": 393.14798646127315,
+          "angle": 0.1714517199914284,
+          "length": 52.37364943171014,
+          "depth": 5,
+          "active": true
+        },
+        {
+          "id": "b_tree_3_8",
+          "x1": 676.3297564438693,
+          "y1": 447.4343493250286,
+          "x2": 683.6755649391912,
+          "y2": 398.96595920942514,
+          "angle": 0.15041404527138813,
+          "length": 49.021890445476245,
+          "depth": 5,
           "active": true
         }
       ],
@@ -4151,6 +4184,7 @@
     }
   ],
   "logs": [
+    "🌿 Day 38: Sprouted 3 new branches.",
     "🌙 Evening rests the ecosystem. Day 37 comes to a close.",
     "🌸 Midday bloom: The canopy thickened with 27 new foliage elements.",
     "🌿 Day 37: Sprouted 2 new branches.",
@@ -4179,7 +4213,6 @@
     "🌸 Midday bloom: The canopy thickened with 15 new foliage elements.",
     "🌿 Day 29: Sprouted 5 new branches.",
     "🌙 Evening rests the ecosystem. Day 28 comes to a close.",
-    "🌸 Midday bloom: The canopy thickened with 15 new foliage elements.",
-    "🌿 Day 28: Sprouted 5 new branches."
+    "🌸 Midday bloom: The canopy thickened with 15 new foliage elements."
   ]
 }

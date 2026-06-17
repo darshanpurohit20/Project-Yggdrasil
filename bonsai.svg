@@ -682,6 +682,14 @@
         <line x1="648.3173265248715" y1="393.14798646127315" x2="655.8219422867976" y2="353.2505358370506" stroke="#6d4c41" stroke-width="7.800000000000001" stroke-linecap="round" />
         <line x1="683.6755649391912" y1="398.96595920942514" x2="674.181121589888" y2="355.3390115491605" stroke="#6d4c41" stroke-width="7.800000000000001" stroke-linecap="round" />
         <line x1="683.6755649391912" y1="398.96595920942514" x2="701.2588372363512" y2="363.6238461073052" stroke="#6d4c41" stroke-width="7.800000000000001" stroke-linecap="round" />
+        <line x1="546.5147967128996" y1="378.81214622066204" x2="504.811098461549" y2="362.7877154634844" stroke="#8d6e63" stroke-width="6.6" stroke-linecap="round" />
+        <line x1="569.6500400201612" y1="352.03610778343307" x2="542.1461195652191" y2="319.1925074057154" stroke="#8d6e63" stroke-width="6.6" stroke-linecap="round" />
+        <line x1="569.6500400201612" y1="352.03610778343307" x2="571.7835954704794" y2="306.0961190150425" stroke="#8d6e63" stroke-width="6.6" stroke-linecap="round" />
+        <line x1="655.8219422867976" y1="353.2505358370506" x2="646.6308635822469" y2="317.6453148862961" stroke="#8d6e63" stroke-width="6.6" stroke-linecap="round" />
+        <line x1="655.8219422867976" y1="353.2505358370506" x2="669.0961111343441" y2="323.61720340473886" stroke="#8d6e63" stroke-width="6.6" stroke-linecap="round" />
+        <line x1="674.181121589888" y1="355.3390115491605" x2="663.977641641485" y2="316.78952264516977" stroke="#8d6e63" stroke-width="6.6" stroke-linecap="round" />
+        <line x1="701.2588372363512" y1="363.6238461073052" x2="702.9714988671653" y2="329.21267376831605" stroke="#8d6e63" stroke-width="6.6" stroke-linecap="round" />
+        <line x1="701.2588372363512" y1="363.6238461073052" x2="725.0873284061504" y2="343.8213129003585" stroke="#8d6e63" stroke-width="6.6" stroke-linecap="round" />
         <circle cx="654.532941862372" cy="392.37786821783385" r="5.69401802458678" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
         <circle cx="542.058210871869" cy="375.8610424399946" r="3.7812288977347217" fill="#27ae60" opacity="0.85" filter="url(#glow)" />
         <circle cx="575.1836299235802" cy="361.1020362464259" r="6.934938189078457" fill="#e84393" opacity="0.85" filter="url(#glow)" />
@@ -689,8 +697,8 @@
     </g>
     
     <!-- Stats Overlay -->
-    <text x="30" y="50" fill="#ecf0f1" font-family="monospace" font-size="20">Project Yggdrasil // Epoch 39</text>
+    <text x="30" y="50" fill="#ecf0f1" font-family="monospace" font-size="20">Project Yggdrasil // Epoch 40</text>
     <text x="30" y="80" fill="#bdc3c7" font-family="monospace" font-size="14">Trees: 4</text>
-    <text x="30" y="100" fill="#bdc3c7" font-family="monospace" font-size="14">Branches: 125</text>
+    <text x="30" y="100" fill="#bdc3c7" font-family="monospace" font-size="14">Branches: 133</text>
     <text x="30" y="120" fill="#bdc3c7" font-family="monospace" font-size="14">Foliage: 530</text>
 </svg>

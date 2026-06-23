@@ -1,5 +1,6 @@
 # The Chronicles of Yggdrasil
 
+- 🌿 Day 46: Sprouted 2 new branches.
 - 🌙 Evening rests the ecosystem. Day 45 comes to a close.
 - 🌸 Midday bloom: The canopy thickened with 40 new foliage elements.
 - 🍂 Day 45: A tree has reached its full majesty and stands still. 🌰 A new seed drops at x=540.
@@ -29,4 +30,3 @@
 - 🌿 Day 37: Sprouted 2 new branches.
 - 🌙 Evening rests the ecosystem. Day 36 comes to a close.
 - 🌸 Midday bloom: The canopy thickened with 22 new foliage elements.
-- 🌿 Day 36: Sprouted 1 new branches.

@@ -1,5 +1,5 @@
 {
-  "day": 46,
+  "day": 47,
   "trees": [
     {
       "id": "tree_0",
@@ -6663,7 +6663,7 @@
           "angle": -0.41375564114878494,
           "length": 147.07239065472703,
           "depth": 1,
-          "active": true
+          "active": false
         },
         {
           "id": "b_tree_5_2",
@@ -6674,6 +6674,50 @@
           "angle": 0.35794425998830726,
           "length": 144.57808298283504,
           "depth": 1,
+          "active": false
+        },
+        {
+          "id": "b_tree_5_3",
+          "x1": 664.5073562419424,
+          "y1": 721.1967407558899,
+          "x2": 580.8714422893424,
+          "y2": 623.1871839351732,
+          "angle": -0.7064325035220423,
+          "length": 128.8442444615979,
+          "depth": 2,
+          "active": true
+        },
+        {
+          "id": "b_tree_5_4",
+          "x1": 664.5073562419424,
+          "y1": 721.1967407558899,
+          "x2": 653.5360391511587,
+          "y2": 592.3735387354554,
+          "angle": -0.0849606752605932,
+          "length": 129.28954782775057,
+          "depth": 2,
+          "active": true
+        },
+        {
+          "id": "b_tree_5_5",
+          "x1": 774.2908045073681,
+          "y1": 720.4441858260159,
+          "x2": 760.1866065787974,
+          "y2": 591.1200236162148,
+          "angle": -0.1086314709913524,
+          "length": 130.09099634669283,
+          "depth": 2,
+          "active": true
+        },
+        {
+          "id": "b_tree_5_6",
+          "x1": 774.2908045073681,
+          "y1": 720.4441858260159,
+          "x2": 851.877156064127,
+          "y2": 629.1669831197696,
+          "angle": 0.7044987025227685,
+          "length": 119.79636756498985,
+          "depth": 2,
           "active": true
         }
       ],
@@ -6681,6 +6725,7 @@
     }
   ],
   "logs": [
+    "🌿 Day 47: Sprouted 4 new branches.",
     "🌙 Evening rests the ecosystem. Day 46 comes to a close.",
     "🌸 Midday bloom: The canopy thickened with 43 new foliage elements.",
     "🌿 Day 46: Sprouted 2 new branches.",
@@ -6709,7 +6754,6 @@
     "🌸 Midday bloom: The canopy thickened with 29 new foliage elements.",
     "🌿 Day 38: Sprouted 3 new branches.",
     "🌙 Evening rests the ecosystem. Day 37 comes to a close.",
-    "🌸 Midday bloom: The canopy thickened with 27 new foliage elements.",
-    "🌿 Day 37: Sprouted 2 new branches."
+    "🌸 Midday bloom: The canopy thickened with 27 new foliage elements."
   ]
 }

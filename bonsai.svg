@@ -1315,6 +1315,16 @@
         <line x1="1104.8006039293666" y1="319.289007017015" x2="1123.7548216380624" y2="279.0863172192355" stroke="#8d6e63" stroke-width="5.4" stroke-linecap="round" />
         <line x1="1136.5502983486228" y1="347.0031676817011" x2="1167.720223653414" y2="308.13044911173665" stroke="#8d6e63" stroke-width="5.4" stroke-linecap="round" />
         <line x1="1136.5502983486228" y1="347.0031676817011" x2="1181.8871792890436" y2="349.59475445493416" stroke="#8d6e63" stroke-width="5.4" stroke-linecap="round" />
+        <line x1="396.5217062636733" y1="301.360509198378" x2="360.2565122689705" y2="289.93977124677536" stroke="#8d6e63" stroke-width="4.200000000000001" stroke-linecap="round" />
+        <line x1="396.5217062636733" y1="301.360509198378" x2="377.11288919728963" y2="272.32359466834555" stroke="#8d6e63" stroke-width="4.200000000000001" stroke-linecap="round" />
+        <line x1="700.4907699589938" y1="84.93147977934817" x2="652.7372934658002" y2="50.658500242588424" stroke="#8d6e63" stroke-width="4.200000000000001" stroke-linecap="round" />
+        <line x1="700.4907699589938" y1="84.93147977934817" x2="692.4096082555749" y2="27.221500223381895" stroke="#8d6e63" stroke-width="4.200000000000001" stroke-linecap="round" />
+        <line x1="779.3813005821509" y1="98.05769148414566" x2="792.6236536268615" y2="56.09538592230622" stroke="#8d6e63" stroke-width="4.200000000000001" stroke-linecap="round" />
+        <line x1="854.9551125512197" y1="105.12852588273827" x2="881.5368125471434" y2="57.613729346965904" stroke="#8d6e63" stroke-width="4.200000000000001" stroke-linecap="round" />
+        <line x1="1123.7548216380624" y1="279.0863172192355" x2="1137.9085598756074" y2="240.66682357539295" stroke="#8d6e63" stroke-width="4.200000000000001" stroke-linecap="round" />
+        <line x1="1167.720223653414" y1="308.13044911173665" x2="1185.9287555593337" y2="268.26189712597994" stroke="#8d6e63" stroke-width="4.200000000000001" stroke-linecap="round" />
+        <line x1="1167.720223653414" y1="308.13044911173665" x2="1206.7498762877187" y2="282.8447742630962" stroke="#8d6e63" stroke-width="4.200000000000001" stroke-linecap="round" />
+        <line x1="1181.8871792890436" y1="349.59475445493416" x2="1222.0294382015504" y2="353.7574818897842" stroke="#8d6e63" stroke-width="4.200000000000001" stroke-linecap="round" />
         <circle cx="1050.1741747987764" cy="414.7569283630972" r="6.954268346433508" fill="#e74c3c" opacity="0.85" filter="url(#glow)" />
         <circle cx="757.7895015803346" cy="294.82902333148877" r="3.9772993179855307" fill="#27ae60" opacity="0.85" filter="url(#glow)" />
         <circle cx="472.5706280771658" cy="360.25986318581045" r="6.904901102519904" fill="#27ae60" opacity="0.85" filter="url(#glow)" />
@@ -1336,8 +1346,8 @@
     </g>
     
     <!-- Stats Overlay -->
-    <text x="30" y="50" fill="#ecf0f1" font-family="monospace" font-size="20">Project Yggdrasil // Epoch 53</text>
+    <text x="30" y="50" fill="#ecf0f1" font-family="monospace" font-size="20">Project Yggdrasil // Epoch 54</text>
     <text x="30" y="80" fill="#bdc3c7" font-family="monospace" font-size="14">Trees: 6</text>
-    <text x="30" y="100" fill="#bdc3c7" font-family="monospace" font-size="14">Branches: 201</text>
+    <text x="30" y="100" fill="#bdc3c7" font-family="monospace" font-size="14">Branches: 211</text>
     <text x="30" y="120" fill="#bdc3c7" font-family="monospace" font-size="14">Foliage: 1101</text>
 </svg>

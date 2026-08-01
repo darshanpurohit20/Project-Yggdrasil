@@ -3609,6 +3609,10 @@
         <line x1="502.3475558498452" y1="281.26657484188434" x2="463.979942722966" y2="235.706793494599" stroke="#6d4c41" stroke-width="7.800000000000001" stroke-linecap="round" />
         <line x1="572.1616130715287" y1="265.79137060761536" x2="565.4247278037475" y2="200.59938317322502" stroke="#6d4c41" stroke-width="7.800000000000001" stroke-linecap="round" />
         <line x1="572.1616130715287" y1="265.79137060761536" x2="613.9518347851135" y2="206.73597227813212" stroke="#6d4c41" stroke-width="7.800000000000001" stroke-linecap="round" />
+        <line x1="463.979942722966" y1="235.706793494599" x2="425.44143066838626" y2="212.83926374822127" stroke="#8d6e63" stroke-width="6.6" stroke-linecap="round" />
+        <line x1="463.979942722966" y1="235.706793494599" x2="457.15724536674924" y2="189.81171906008285" stroke="#8d6e63" stroke-width="6.6" stroke-linecap="round" />
+        <line x1="565.4247278037475" y1="200.59938317322502" x2="560.778759880077" y2="146.28394718800354" stroke="#8d6e63" stroke-width="6.6" stroke-linecap="round" />
+        <line x1="613.9518347851135" y1="206.73597227813212" x2="646.3534767274049" y2="154.70078194456846" stroke="#8d6e63" stroke-width="6.6" stroke-linecap="round" />
         <circle cx="501.7953918725542" cy="278.2808092339096" r="5.088395574629159" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
         <circle cx="509.3313402360548" cy="282.8759152903428" r="7.4525117224790804" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
         <circle cx="569.7429055637909" cy="259.84218655860474" r="4.742408506628528" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
@@ -3616,8 +3620,8 @@
     </g>
     
     <!-- Stats Overlay -->
-    <text x="30" y="50" fill="#ecf0f1" font-family="monospace" font-size="20">Project Yggdrasil // Epoch 84</text>
+    <text x="30" y="50" fill="#ecf0f1" font-family="monospace" font-size="20">Project Yggdrasil // Epoch 85</text>
     <text x="30" y="80" fill="#bdc3c7" font-family="monospace" font-size="14">Trees: 9</text>
-    <text x="30" y="100" fill="#bdc3c7" font-family="monospace" font-size="14">Branches: 369</text>
+    <text x="30" y="100" fill="#bdc3c7" font-family="monospace" font-size="14">Branches: 373</text>
     <text x="30" y="120" fill="#bdc3c7" font-family="monospace" font-size="14">Foliage: 3213</text>
 </svg>

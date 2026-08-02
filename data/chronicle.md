@@ -1,5 +1,6 @@
 # The Chronicles of Yggdrasil
 
+- 🌿 Day 86: Sprouted 3 new branches.
 - 🌙 Evening rests the ecosystem. Day 85 comes to a close.
 - 🌸 Midday bloom: The canopy thickened with 85 new foliage elements.
 - 🌿 Day 85: Sprouted 4 new branches.
@@ -29,4 +30,3 @@
 - 🌿 Day 77: Sprouted 23 new branches.
 - 🌙 Evening rests the ecosystem. Day 76 comes to a close.
 - 🌸 Midday bloom: The canopy thickened with 71 new foliage elements.
-- 🌿 Day 76: Sprouted 18 new branches.

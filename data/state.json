@@ -1,5 +1,5 @@
 {
-  "day": 89,
+  "day": 90,
   "trees": [
     {
       "id": "tree_0",
@@ -25852,7 +25852,7 @@
     {
       "id": "tree_8",
       "rootX": 652.0064927482146,
-      "active": true,
+      "active": false,
       "branches": [
         {
           "id": "b_8_0",
@@ -26233,9 +26233,51 @@
           "color": "#27ae60"
         }
       ]
+    },
+    {
+      "id": "tree_9",
+      "rootX": 823.0913768594542,
+      "active": true,
+      "branches": [
+        {
+          "id": "b_9_0",
+          "x1": 823.0913768594542,
+          "y1": 1000,
+          "x2": 823.0913768594542,
+          "y2": 877.3200469620332,
+          "angle": 0.1835499211993546,
+          "length": 129.45543701896568,
+          "depth": 0,
+          "active": false
+        },
+        {
+          "id": "b_tree_9_1",
+          "x1": 823.0913768594542,
+          "y1": 877.3200469620332,
+          "x2": 795.103854228443,
+          "y2": 773.9539900653491,
+          "angle": -0.264421222749919,
+          "length": 107.08801586260665,
+          "depth": 1,
+          "active": true
+        },
+        {
+          "id": "b_tree_9_2",
+          "x1": 823.0913768594542,
+          "y1": 877.3200469620332,
+          "x2": 905.0244863040607,
+          "y2": 793.58533316668,
+          "angle": 0.7745237926201234,
+          "length": 117.15176788103362,
+          "depth": 1,
+          "active": true
+        }
+      ],
+      "leaves": []
     }
   ],
   "logs": [
+    "🌿 Day 90: Sprouted 2 new branches.",
     "🌙 Evening rests the ecosystem. Day 89 comes to a close.",
     "🌸 Midday bloom: The canopy thickened with 95 new foliage elements.",
     "🌿 Day 89: The morning sun encourages new growth.",
@@ -26264,7 +26306,6 @@
     "🌸 Midday bloom: The canopy thickened with 90 new foliage elements.",
     "🌿 Day 81: Sprouted 1 new branches.",
     "🌙 Evening rests the ecosystem. Day 80 comes to a close.",
-    "🌸 Midday bloom: The canopy thickened with 98 new foliage elements.",
-    "🌿 Day 80: Sprouted 1 new branches."
+    "🌸 Midday bloom: The canopy thickened with 98 new foliage elements."
   ]
 }

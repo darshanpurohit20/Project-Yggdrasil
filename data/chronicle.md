@@ -1,5 +1,6 @@
 # The Chronicles of Yggdrasil
 
+- 🌸 Midday bloom: The canopy thickened with 83 new foliage elements.
 - 🌿 Day 90: Sprouted 2 new branches.
 - 🌙 Evening rests the ecosystem. Day 89 comes to a close.
 - 🌸 Midday bloom: The canopy thickened with 95 new foliage elements.
@@ -29,4 +30,3 @@
 - 🌸 Midday bloom: The canopy thickened with 90 new foliage elements.
 - 🌿 Day 81: Sprouted 1 new branches.
 - 🌙 Evening rests the ecosystem. Day 80 comes to a close.
-- 🌸 Midday bloom: The canopy thickened with 98 new foliage elements.

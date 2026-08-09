@@ -1,5 +1,5 @@
 {
-  "day": 92,
+  "day": 93,
   "trees": [
     {
       "id": "tree_0",
@@ -27881,7 +27881,7 @@
           "angle": -0.13590764854354317,
           "length": 82.85604821055566,
           "depth": 3,
-          "active": true
+          "active": false
         },
         {
           "id": "b_tree_9_6",
@@ -27892,7 +27892,7 @@
           "angle": 0.2482834620625276,
           "length": 80.65392200526612,
           "depth": 3,
-          "active": true
+          "active": false
         },
         {
           "id": "b_tree_9_7",
@@ -27903,6 +27903,28 @@
           "angle": 1.229063043270595,
           "length": 72.80384594377385,
           "depth": 3,
+          "active": false
+        },
+        {
+          "id": "b_tree_9_8",
+          "x1": 767.6244272719476,
+          "y1": 605.7771496144587,
+          "x2": 752.6764106393916,
+          "y2": 531.53212217985,
+          "angle": -0.1986775118760665,
+          "length": 75.73484864983205,
+          "depth": 4,
+          "active": true
+        },
+        {
+          "id": "b_tree_9_9",
+          "x1": 991.4928325802261,
+          "y1": 646.4205499834308,
+          "x2": 1003.9566576641786,
+          "y2": 582.0162222140779,
+          "angle": 0.1911615809111181,
+          "length": 65.5992711174873,
+          "depth": 4,
           "active": true
         }
       ],
@@ -27910,6 +27932,7 @@
     }
   ],
   "logs": [
+    "🌿 Day 93: Sprouted 2 new branches.",
     "🌙 Evening rests the ecosystem. Day 92 comes to a close.",
     "🌸 Midday bloom: The canopy thickened with 106 new foliage elements.",
     "🌿 Day 92: Sprouted 3 new branches.",
@@ -27938,7 +27961,6 @@
     "🌸 Midday bloom: The canopy thickened with 87 new foliage elements.",
     "🌿 Day 84: Sprouted 3 new branches.",
     "🌙 Evening rests the ecosystem. Day 83 comes to a close.",
-    "🌸 Midday bloom: The canopy thickened with 76 new foliage elements.",
-    "🌿 Day 83: Sprouted 2 new branches."
+    "🌸 Midday bloom: The canopy thickened with 76 new foliage elements."
   ]
 }

@@ -4344,12 +4344,14 @@
         <line x1="778.8505638793512" y1="687.8691625142643" x2="767.6244272719476" y2="605.7771496144587" stroke="#5c4033" stroke-width="11.4" stroke-linecap="round" />
         <line x1="971.6729038593197" y1="724.6012736966949" x2="991.4928325802261" y2="646.4205499834308" stroke="#5c4033" stroke-width="11.4" stroke-linecap="round" />
         <line x1="971.6729038593197" y1="724.6012736966949" x2="1040.2668835731304" y2="700.2032014116539" stroke="#5c4033" stroke-width="11.4" stroke-linecap="round" />
+        <line x1="767.6244272719476" y1="605.7771496144587" x2="752.6764106393916" y2="531.53212217985" stroke="#6d4c41" stroke-width="10.2" stroke-linecap="round" />
+        <line x1="991.4928325802261" y1="646.4205499834308" x2="1003.9566576641786" y2="582.0162222140779" stroke="#6d4c41" stroke-width="10.2" stroke-linecap="round" />
 
     </g>
     
     <!-- Stats Overlay -->
-    <text x="30" y="50" fill="#ecf0f1" font-family="monospace" font-size="20">Project Yggdrasil // Epoch 92</text>
+    <text x="30" y="50" fill="#ecf0f1" font-family="monospace" font-size="20">Project Yggdrasil // Epoch 93</text>
     <text x="30" y="80" fill="#bdc3c7" font-family="monospace" font-size="14">Trees: 10</text>
-    <text x="30" y="100" fill="#bdc3c7" font-family="monospace" font-size="14">Branches: 387</text>
+    <text x="30" y="100" fill="#bdc3c7" font-family="monospace" font-size="14">Branches: 389</text>
     <text x="30" y="120" fill="#bdc3c7" font-family="monospace" font-size="14">Foliage: 3927</text>
 </svg>

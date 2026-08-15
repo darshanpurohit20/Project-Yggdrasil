@@ -1,5 +1,6 @@
 # The Chronicles of Yggdrasil
 
+- 🌙 Evening rests the ecosystem. Day 99 comes to a close.
 - 🌸 Midday bloom: The canopy thickened with 98 new foliage elements.
 - 🌿 Day 99: Sprouted 11 new branches.
 - 🌙 Evening rests the ecosystem. Day 98 comes to a close.
@@ -29,4 +30,3 @@
 - 🌙 Evening rests the ecosystem. Day 90 comes to a close.
 - 🌸 Midday bloom: The canopy thickened with 83 new foliage elements.
 - 🌿 Day 90: Sprouted 2 new branches.
-- 🌙 Evening rests the ecosystem. Day 89 comes to a close.

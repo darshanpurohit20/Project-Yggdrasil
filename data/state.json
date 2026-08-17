@@ -1,5 +1,5 @@
 {
-  "day": 100,
+  "day": 101,
   "trees": [
     {
       "id": "tree_0",
@@ -32075,7 +32075,7 @@
     {
       "id": "tree_9",
       "rootX": 823.0913768594542,
-      "active": true,
+      "active": false,
       "branches": [
         {
           "id": "b_9_0",
@@ -32831,9 +32831,40 @@
           "color": "#27ae60"
         }
       ]
+    },
+    {
+      "id": "tree_10",
+      "rootX": 242.9129984862989,
+      "active": true,
+      "branches": [
+        {
+          "id": "b_10_0",
+          "x1": 242.9129984862989,
+          "y1": 1000,
+          "x2": 242.9129984862989,
+          "y2": 879.4316241533571,
+          "angle": -0.1879299220899231,
+          "length": 163.68538883204823,
+          "depth": 0,
+          "active": false
+        },
+        {
+          "id": "b_tree_10_1",
+          "x1": 242.9129984862989,
+          "y1": 879.4316241533571,
+          "x2": 208.06772600016035,
+          "y2": 757.6298965505048,
+          "angle": -0.27863951728179515,
+          "length": 126.68801782991433,
+          "depth": 1,
+          "active": true
+        }
+      ],
+      "leaves": []
     }
   ],
   "logs": [
+    "🌿 Day 101: Sprouted 1 new branches.",
     "🌙 Evening rests the ecosystem. Day 100 comes to a close.",
     "🌸 Midday bloom: The canopy thickened with 93 new foliage elements.",
     "🌿 Day 100: The morning sun encourages new growth.",
@@ -32862,7 +32893,6 @@
     "🌸 Midday bloom: The canopy thickened with 106 new foliage elements.",
     "🌿 Day 92: Sprouted 3 new branches.",
     "🌙 Evening rests the ecosystem. Day 91 comes to a close.",
-    "🌸 Midday bloom: The canopy thickened with 74 new foliage elements.",
-    "🌿 Day 91: Sprouted 2 new branches."
+    "🌸 Midday bloom: The canopy thickened with 74 new foliage elements."
   ]
 }

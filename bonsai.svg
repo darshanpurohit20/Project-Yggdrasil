@@ -949,6 +949,16 @@
         <circle cx="594.5893459659741" cy="339.41967783296644" r="7.910480969813554" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
         <circle cx="302.63982783706797" cy="291.44493468149966" r="4.284849182137469" fill="#e84393" opacity="0.85" filter="url(#glow)" />
         <circle cx="437.92804674566355" cy="219.04461794184144" r="6.711082336105358" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <circle cx="438.2950862052635" cy="430.2861697418079" r="3.1124503790623987" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="499.92461633712117" cy="436.91514236735696" r="3.751839927525779" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="559.9363939719672" cy="404.7163173446584" r="7.130129708686351" fill="#27ae60" opacity="0.85" filter="url(#glow)" />
+        <circle cx="367.03868059505254" cy="359.9583730614421" r="3.27283607686571" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="482.7075456769453" cy="344.41143651418065" r="5.031925141046786" fill="#e74c3c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="580.1936088981297" cy="383.5269284511526" r="4.574563418238796" fill="#e84393" opacity="0.85" filter="url(#glow)" />
+        <circle cx="505.33334616665695" cy="304.67552880459795" r="7.003507712810177" fill="#f1c40f" opacity="0.85" filter="url(#glow)" />
+        <circle cx="321.8832543284222" cy="322.3289388241359" r="6.820339317524687" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <circle cx="438.32875595446006" cy="220.92804556509057" r="3.920208408042283" fill="#f1c40f" opacity="0.85" filter="url(#glow)" />
+        <circle cx="606.1123311627564" cy="310.26444677204813" r="6.9878830962369545" fill="#f1c40f" opacity="0.85" filter="url(#glow)" />
         <line x1="597.9894385515931" y1="1000" x2="597.9894385515931" y2="887.3174857422222" stroke="#5c4033" stroke-width="15" stroke-linecap="round" />
         <line x1="597.9894385515931" y1="887.3174857422222" x2="589.1852562668811" y2="764.592974068426" stroke="#5c4033" stroke-width="13.8" stroke-linecap="round" />
         <line x1="589.1852562668811" y1="764.592974068426" x2="555.0362707136089" y2="670.4880593506226" stroke="#5c4033" stroke-width="12.6" stroke-linecap="round" />
@@ -1435,6 +1445,10 @@
         <circle cx="477.17278026113155" cy="370.6287045196661" r="3.9736424250623053" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
         <circle cx="453.8865338364562" cy="359.7345025651144" r="4.525055042852471" fill="#f1c40f" opacity="0.85" filter="url(#glow)" />
         <circle cx="407.7948154792624" cy="303.8597258453413" r="5.896759294716239" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <circle cx="704.1873321681264" cy="486.3175413942045" r="4.2000840843537315" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="724.9532204300826" cy="436.83177731480004" r="7.50569691406948" fill="#e74c3c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="438.82893247747194" cy="308.8905263048665" r="4.627462248192756" fill="#e74c3c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="436.31080166210035" cy="313.04147866092353" r="3.801101206216032" fill="#e74c3c" opacity="0.85" filter="url(#glow)" />
         <line x1="350.00083094618367" y1="1000" x2="350.00083094618367" y2="854.078749919197" stroke="#5c4033" stroke-width="15" stroke-linecap="round" />
         <line x1="350.00083094618367" y1="854.078749919197" x2="349.6972773556248" y2="759.8372771989357" stroke="#5c4033" stroke-width="13.8" stroke-linecap="round" />
         <line x1="349.6972773556248" y1="759.8372771989357" x2="349.2302966035112" y2="682.1897508207078" stroke="#5c4033" stroke-width="12.6" stroke-linecap="round" />
@@ -2311,6 +2325,20 @@
         <circle cx="303.92729713927537" cy="414.27834670024464" r="4.067189002370142" fill="#e84393" opacity="0.85" filter="url(#glow)" />
         <circle cx="121.36843619945321" cy="517.0363960847233" r="3.6748793084023585" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
         <circle cx="113.58259626163458" cy="495.3795511516428" r="5.521117892071026" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="371.33509751167105" cy="508.43308084193376" r="5.892026445934647" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="288.056932013246" cy="475.42768662875665" r="5.961529865879545" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <circle cx="216.196706292518" cy="475.4285520840841" r="4.132050356913199" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <circle cx="157.3774503948544" cy="510.3655155549534" r="4.550181456521154" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="209.75213370317104" cy="445.1540165953533" r="5.75298654072283" fill="#f1c40f" opacity="0.85" filter="url(#glow)" />
+        <circle cx="320.52421640972057" cy="422.82805020067593" r="7.323078412107315" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <circle cx="133.71995057629573" cy="489.98219840234225" r="5.142536317946769" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="185.22022753405363" cy="460.579442704254" r="7.1655198644309905" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="107.17086618508024" cy="516.1819403474775" r="5.3030492367457995" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="110.89104246124424" cy="523.4465377673796" r="7.786644038843432" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="168.15009261533314" cy="446.5163001519411" r="3.7819816455147874" fill="#e84393" opacity="0.85" filter="url(#glow)" />
+        <circle cx="172.80553820363627" cy="429.8431524476887" r="6.502988190052065" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <circle cx="298.9834122040122" cy="384.53827734789905" r="3.005673210366152" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <circle cx="349.9150847006663" cy="394.05033314644544" r="3.969469712697503" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
         <line x1="674.235702381367" y1="1000" x2="674.235702381367" y2="829.5071871929894" stroke="#5c4033" stroke-width="15" stroke-linecap="round" />
         <line x1="674.235702381367" y1="829.5071871929894" x2="667.7203938849301" y2="699.7139795532441" stroke="#5c4033" stroke-width="13.8" stroke-linecap="round" />
         <line x1="667.7203938849301" y1="699.7139795532441" x2="666.8495477614966" y2="593.8380431478738" stroke="#5c4033" stroke-width="12.6" stroke-linecap="round" />
@@ -3189,6 +3217,14 @@
         <circle cx="640.5186003643338" cy="237.29247616918036" r="5.044466257696428" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
         <circle cx="662.0336699925124" cy="230.520472647153" r="7.772937935323446" fill="#e74c3c" opacity="0.85" filter="url(#glow)" />
         <circle cx="742.9790751699813" cy="279.6826421650068" r="3.252899022134759" fill="#e74c3c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="664.2100193405508" cy="361.3212503624055" r="4.308535640986895" fill="#e74c3c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="713.8371575658233" cy="296.5227462101193" r="3.8000055068025578" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <circle cx="458.6942721631078" cy="305.0867038261771" r="7.474907925716744" fill="#27ae60" opacity="0.85" filter="url(#glow)" />
+        <circle cx="623.9347605468614" cy="261.37280637392695" r="7.311350499668302" fill="#e84393" opacity="0.85" filter="url(#glow)" />
+        <circle cx="754.6542973256107" cy="315.1611915232275" r="5.024034677371503" fill="#27ae60" opacity="0.85" filter="url(#glow)" />
+        <circle cx="541.7826955242675" cy="222.52993327485956" r="3.769529414389706" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <circle cx="612.5454205741802" cy="200.70080431632556" r="4.935091756577662" fill="#27ae60" opacity="0.85" filter="url(#glow)" />
+        <circle cx="680.4235622797275" cy="258.98816157364644" r="7.503240450440967" fill="#27ae60" opacity="0.85" filter="url(#glow)" />
         <line x1="540.8473412445602" y1="1000" x2="540.8473412445602" y2="894.1559113649996" stroke="#5c4033" stroke-width="15" stroke-linecap="round" />
         <line x1="723.6379411270943" y1="1000" x2="723.6379411270943" y2="855.8587696431618" stroke="#5c4033" stroke-width="15" stroke-linecap="round" />
         <line x1="723.6379411270943" y1="855.8587696431618" x2="664.5073562419424" y2="721.1967407558899" stroke="#5c4033" stroke-width="13.8" stroke-linecap="round" />
@@ -3860,6 +3896,22 @@
         <circle cx="1135.5303434150032" cy="231.55105941337067" r="6.836507772084138" fill="#27ae60" opacity="0.85" filter="url(#glow)" />
         <circle cx="331.2208496944081" cy="279.3793042403136" r="4.675138792351819" fill="#e74c3c" opacity="0.85" filter="url(#glow)" />
         <circle cx="598.933529747233" cy="38.20559282652468" r="7.902077888147435" fill="#27ae60" opacity="0.85" filter="url(#glow)" />
+        <circle cx="746.5729708840793" cy="284.31324008840346" r="7.042813936337377" fill="#27ae60" opacity="0.85" filter="url(#glow)" />
+        <circle cx="1050.8314909461574" cy="412.3612627326356" r="6.997231153601344" fill="#27ae60" opacity="0.85" filter="url(#glow)" />
+        <circle cx="579.9759699704337" cy="304.51217006289755" r="7.4746766618893155" fill="#e84393" opacity="0.85" filter="url(#glow)" />
+        <circle cx="420.4791613885212" cy="322.8124613038456" r="4.347021144896626" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="733.0342573021201" cy="142.92618931522807" r="4.68282671359401" fill="#27ae60" opacity="0.85" filter="url(#glow)" />
+        <circle cx="839.2160485633656" cy="151.40482684483146" r="6.820066063472769" fill="#27ae60" opacity="0.85" filter="url(#glow)" />
+        <circle cx="1100.6283018478193" cy="313.30202170945574" r="4.502521648061589" fill="#27ae60" opacity="0.85" filter="url(#glow)" />
+        <circle cx="1144.521691304826" cy="338.54917826534694" r="6.379910834280863" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <circle cx="396.190599829799" cy="295.9774121482335" r="7.08404410671133" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="774.0372326324101" cy="93.91512158603732" r="5.182291494911267" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="382.4007852204978" cy="263.4834175839077" r="3.898264792358056" fill="#27ae60" opacity="0.85" filter="url(#glow)" />
+        <circle cx="886.6772492032661" cy="59.90626294777364" r="4.97094681259245" fill="#27ae60" opacity="0.85" filter="url(#glow)" />
+        <circle cx="332.37499826832766" cy="274.9606883348074" r="6.797171535940972" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="636.6996194397046" cy="18.161552206307217" r="5.50016701045997" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="912.8193934164289" cy="25.064349125519353" r="6.1791235535820705" fill="#27ae60" opacity="0.85" filter="url(#glow)" />
+        <circle cx="1247.0869487557825" cy="258.30453069849153" r="5.858839990655339" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
         <line x1="115.46178705184875" y1="1000" x2="115.46178705184875" y2="885.3672659327647" stroke="#5c4033" stroke-width="15" stroke-linecap="round" />
         <line x1="115.46178705184875" y1="885.3672659327647" x2="147.58807912353979" y2="749.8465160753268" stroke="#5c4033" stroke-width="13.8" stroke-linecap="round" />
         <line x1="147.58807912353979" y1="749.8465160753268" x2="176.56772993346706" y2="625.8821196446729" stroke="#5c4033" stroke-width="12.6" stroke-linecap="round" />
@@ -4398,6 +4450,20 @@
         <circle cx="-133.50386334806302" cy="267.9587114030602" r="4.882944427216506" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
         <circle cx="-27.808286891504913" cy="175.13443564546398" r="6.717302251411456" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
         <circle cx="34.27411239040449" cy="138.06040840199177" r="3.2747004046201673" fill="#e74c3c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="314.20535900897636" cy="385.35178297179647" r="4.888547306636749" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="145.9080242457264" cy="264.7863092846066" r="4.294046695135609" fill="#27ae60" opacity="0.85" filter="url(#glow)" />
+        <circle cx="113.02686501878102" cy="219.2046742730915" r="7.516354940275608" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="68.79433760530074" cy="225.85504774001885" r="3.2655535410158913" fill="#27ae60" opacity="0.85" filter="url(#glow)" />
+        <circle cx="117.09714340366011" cy="206.52100935656966" r="7.948922232214431" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <circle cx="-28.095819939109997" cy="223.50498219057818" r="7.66855342779149" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <circle cx="22.493461316347553" cy="217.0086431529822" r="4.416027283936581" fill="#27ae60" opacity="0.85" filter="url(#glow)" />
+        <circle cx="102.06428765330034" cy="149.52927194294665" r="3.6468218679756763" fill="#e84393" opacity="0.85" filter="url(#glow)" />
+        <circle cx="-81.58537917619552" cy="246.1708754497882" r="4.387044557984805" fill="#e74c3c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="-38.81178163905858" cy="199.69865327582377" r="7.921386452863973" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <circle cx="1.9043925763607419" cy="190.25285753316976" r="6.824154093879509" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <circle cx="220.5880385452366" cy="120.50821952458382" r="4.902528670738963" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="-33.32992247014438" cy="149.43072642736698" r="7.738924504954443" fill="#e74c3c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="36.831744204291745" cy="133.88233505384744" r="6.624743891190479" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
         <line x1="157.4688391415627" y1="1000" x2="157.4688391415627" y2="875.2656215706118" stroke="#5c4033" stroke-width="15" stroke-linecap="round" />
         <line x1="157.4688391415627" y1="875.2656215706118" x2="108.64627381848332" y2="791.5665623757427" stroke="#5c4033" stroke-width="13.8" stroke-linecap="round" />
         <line x1="157.4688391415627" y1="875.2656215706118" x2="184.36081592368697" y2="781.9375566531529" stroke="#5c4033" stroke-width="13.8" stroke-linecap="round" />
@@ -5140,6 +5206,29 @@
         <circle cx="24.315073139284465" cy="478.52026593998863" r="4.464992261476015" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
         <circle cx="35.16320836162714" cy="477.7791131068778" r="4.144692563928679" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
         <circle cx="78.27809309325649" cy="456.06473892732606" r="4.679739245235155" fill="#27ae60" opacity="0.85" filter="url(#glow)" />
+        <circle cx="-117.06185381262443" cy="543.3201077010161" r="3.11644303157617" fill="#e74c3c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="105.40528323203226" cy="583.1506180669903" r="7.762061645260623" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <circle cx="36.252047834484976" cy="557.4010079570371" r="5.559754560588318" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="119.52486639637009" cy="536.76477833504" r="7.446319696286008" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <circle cx="181.7543490699663" cy="538.7874518516027" r="7.307000043555046" fill="#27ae60" opacity="0.85" filter="url(#glow)" />
+        <circle cx="11.70420360977408" cy="562.238479277588" r="3.91956567402937" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <circle cx="138.82493376914746" cy="520.3982113495961" r="7.2134510206467235" fill="#e84393" opacity="0.85" filter="url(#glow)" />
+        <circle cx="-288.79276317879373" cy="495.052174793968" r="6.855162619573422" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <circle cx="-165.72890581434854" cy="401.4111241179345" r="4.902702651113755" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <circle cx="-0.761936651572622" cy="573.0546648175056" r="4.032292725345252" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="-343.75206021976715" cy="491.42024634577126" r="5.511010243069566" fill="#27ae60" opacity="0.85" filter="url(#glow)" />
+        <circle cx="-109.84141140129829" cy="339.42843665471514" r="4.447141932459902" fill="#e84393" opacity="0.85" filter="url(#glow)" />
+        <circle cx="-16.974242259461302" cy="518.6112567945245" r="5.8011082983190905" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="131.50676420910975" cy="466.02468221244345" r="5.702804554960105" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <circle cx="189.6119169432233" cy="462.777263103338" r="6.625430562420303" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="-366.6401940193529" cy="491.8149260186688" r="7.087245536661495" fill="#27ae60" opacity="0.85" filter="url(#glow)" />
+        <circle cx="15.806848537071422" cy="480.8309890910603" r="4.200330715601678" fill="#e74c3c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="13.10104801928631" cy="487.183119642753" r="4.34968018108952" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <circle cx="113.8637732095437" cy="459.08310243899865" r="5.584118557783012" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <circle cx="138.48804338309864" cy="457.1619562219503" r="6.542215884726005" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <circle cx="170.34790702990207" cy="448.1297509985804" r="5.122433440466205" fill="#27ae60" opacity="0.85" filter="url(#glow)" />
+        <circle cx="175.95518275385078" cy="442.5824181560946" r="4.149737163950956" fill="#e74c3c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="195.68818037366583" cy="446.37075640969124" r="4.755931967778432" fill="#f1c40f" opacity="0.85" filter="url(#glow)" />
         <line x1="652.0064927482146" y1="1000" x2="652.0064927482146" y2="808.89580497882" stroke="#5c4033" stroke-width="15" stroke-linecap="round" />
         <line x1="652.0064927482146" y1="808.89580497882" x2="625.1558688252987" y2="658.1568401004622" stroke="#5c4033" stroke-width="13.8" stroke-linecap="round" />
         <line x1="625.1558688252987" y1="658.1568401004622" x2="593.8882784909378" y2="533.3559039706533" stroke="#5c4033" stroke-width="12.6" stroke-linecap="round" />
@@ -5245,6 +5334,11 @@
         <circle cx="642.1043616910547" cy="162.20428833050454" r="7.730799227894265" fill="#27ae60" opacity="0.85" filter="url(#glow)" />
         <circle cx="398.16492681227663" cy="190.88566681802268" r="6.605513140939508" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
         <circle cx="444.9318263741667" cy="150.88738140622206" r="3.6748069032186255" fill="#27ae60" opacity="0.85" filter="url(#glow)" />
+        <circle cx="421.97039752306887" cy="203.38222932451123" r="7.322562003007221" fill="#27ae60" opacity="0.85" filter="url(#glow)" />
+        <circle cx="646.4924627461038" cy="159.37117566322286" r="7.752402813610967" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <circle cx="444.8300036147451" cy="160.17369554937156" r="3.461738632439422" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="554.9013950826587" cy="87.44378822408925" r="4.090040021564869" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="539.77164311753" cy="17.81063155445305" r="7.244940014026712" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
         <line x1="823.0913768594542" y1="1000" x2="823.0913768594542" y2="877.3200469620332" stroke="#5c4033" stroke-width="15" stroke-linecap="round" />
         <line x1="823.0913768594542" y1="877.3200469620332" x2="795.103854228443" y2="773.9539900653491" stroke="#5c4033" stroke-width="13.8" stroke-linecap="round" />
         <line x1="823.0913768594542" y1="877.3200469620332" x2="905.0244863040607" y2="793.58533316668" stroke="#5c4033" stroke-width="13.8" stroke-linecap="round" />
@@ -5353,6 +5447,21 @@
         <circle cx="791.1827517756873" cy="298.16197473113067" r="7.802802751959154" fill="#e84393" opacity="0.85" filter="url(#glow)" />
         <circle cx="638.6695295495674" cy="301.10596859566124" r="4.692918551596209" fill="#27ae60" opacity="0.85" filter="url(#glow)" />
         <circle cx="645.5358889673223" cy="278.0973699797402" r="6.736796355622479" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="714.2178244682327" cy="413.01456274999765" r="7.867939164779194" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="714.2348446096211" cy="376.80024281109746" r="6.223974537340925" fill="#27ae60" opacity="0.85" filter="url(#glow)" />
+        <circle cx="751.277345162429" cy="333.1288263907249" r="6.95515915968225" fill="#e84393" opacity="0.85" filter="url(#glow)" />
+        <circle cx="781.341032450604" cy="330.1795146618755" r="3.32484197040806" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <circle cx="851.7908675103882" cy="382.46222124153496" r="7.838177958680248" fill="#27ae60" opacity="0.85" filter="url(#glow)" />
+        <circle cx="664.7822798969324" cy="318.427466379858" r="4.242176768749883" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="737.184335029857" cy="301.3421497611497" r="3.0914204473667732" fill="#e84393" opacity="0.85" filter="url(#glow)" />
+        <circle cx="756.1044076496394" cy="316.61186492497615" r="6.409827806826038" fill="#f1c40f" opacity="0.85" filter="url(#glow)" />
+        <circle cx="731.5784437566726" cy="311.15615507600705" r="6.750356357897935" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <circle cx="797.5460091216837" cy="307.4530174834563" r="6.861058256528596" fill="#e84393" opacity="0.85" filter="url(#glow)" />
+        <circle cx="875.7496029832307" cy="346.86757167974315" r="4.910035594440784" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <circle cx="772.851799056941" cy="280.72889432825616" r="6.584233751098579" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
+        <circle cx="720.0012684715421" cy="290.6392719345701" r="5.374441735807091" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <circle cx="861.3179136027264" cy="318.2623416406255" r="4.585513139201977" fill="#2ecc71" opacity="0.85" filter="url(#glow)" />
+        <circle cx="895.8980451614487" cy="329.5602732608214" r="6.852889448542454" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
         <line x1="242.9129984862989" y1="1000" x2="242.9129984862989" y2="879.4316241533571" stroke="#5c4033" stroke-width="15" stroke-linecap="round" />
         <line x1="242.9129984862989" y1="879.4316241533571" x2="208.06772600016035" y2="757.6298965505048" stroke="#5c4033" stroke-width="13.8" stroke-linecap="round" />
         <line x1="208.06772600016035" y1="757.6298965505048" x2="136.24856929079598" y2="667.0201363934821" stroke="#5c4033" stroke-width="12.6" stroke-linecap="round" />
@@ -5368,5 +5477,5 @@
     <text x="30" y="50" fill="#ecf0f1" font-family="monospace" font-size="20">Project Yggdrasil // Epoch 103</text>
     <text x="30" y="80" fill="#bdc3c7" font-family="monospace" font-size="14">Trees: 11</text>
     <text x="30" y="100" fill="#bdc3c7" font-family="monospace" font-size="14">Branches: 434</text>
-    <text x="30" y="120" fill="#bdc3c7" font-family="monospace" font-size="14">Foliage: 4897</text>
+    <text x="30" y="120" fill="#bdc3c7" font-family="monospace" font-size="14">Foliage: 5006</text>
 </svg>

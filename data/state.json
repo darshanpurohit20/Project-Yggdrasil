@@ -1,5 +1,5 @@
 {
-  "day": 103,
+  "day": 104,
   "trees": [
     {
       "id": "tree_0",
@@ -34870,7 +34870,7 @@
           "angle": -0.918332505001898,
           "length": 102.78925753366065,
           "depth": 3,
-          "active": true
+          "active": false
         },
         {
           "id": "b_tree_10_5",
@@ -34881,7 +34881,7 @@
           "angle": -0.3442733490019093,
           "length": 105.20610565065779,
           "depth": 3,
-          "active": true
+          "active": false
         },
         {
           "id": "b_tree_10_6",
@@ -34892,7 +34892,7 @@
           "angle": -0.31161771265428195,
           "length": 109.56176552147633,
           "depth": 3,
-          "active": true
+          "active": false
         },
         {
           "id": "b_tree_10_7",
@@ -34903,6 +34903,39 @@
           "angle": 0.7160925732059793,
           "length": 104.85058965468467,
           "depth": 3,
+          "active": false
+        },
+        {
+          "id": "b_tree_10_8",
+          "x1": 54.573221043682665,
+          "y1": 604.6120523575659,
+          "x2": -17.254707400908018,
+          "y2": 541.2455659457445,
+          "angle": -0.8479038494723458,
+          "length": 95.78393865790223,
+          "depth": 4,
+          "active": true
+        },
+        {
+          "id": "b_tree_10_9",
+          "x1": 100.74016677153855,
+          "y1": 567.9874245417521,
+          "x2": 65.96136789938237,
+          "y2": 475.14926197801833,
+          "angle": -0.35843527154786137,
+          "length": 99.13873753079652,
+          "depth": 4,
+          "active": true
+        },
+        {
+          "id": "b_tree_10_10",
+          "x1": 201.3034240178865,
+          "y1": 540.7630592652106,
+          "x2": 161.8330734119819,
+          "y2": 444.60206486540153,
+          "angle": -0.38949193805844856,
+          "length": 103.94635838216334,
+          "depth": 4,
           "active": true
         }
       ],
@@ -34910,6 +34943,7 @@
     }
   ],
   "logs": [
+    "🌿 Day 104: Sprouted 3 new branches.",
     "🌙 Evening rests the ecosystem. Day 103 comes to a close.",
     "🌸 Midday bloom: The canopy thickened with 109 new foliage elements.",
     "🌿 Day 103: Sprouted 4 new branches.",
@@ -34938,7 +34972,6 @@
     "🌸 Midday bloom: The canopy thickened with 72 new foliage elements.",
     "🌿 Day 95: Sprouted 5 new branches.",
     "🌙 Evening rests the ecosystem. Day 94 comes to a close.",
-    "🌸 Midday bloom: The canopy thickened with 97 new foliage elements.",
-    "🌿 Day 94: Sprouted 3 new branches."
+    "🌸 Midday bloom: The canopy thickened with 97 new foliage elements."
   ]
 }

@@ -11,11 +11,11 @@
 - **Total Foliage:** 6923
 
 ### 📖 Botanist's Log (Latest entries)
+- 🌙 Evening rests the ecosystem. Day 120 comes to a close.
 - 🌸 Midday bloom: The canopy thickened with 131 new foliage elements.
 - 🌿 Day 120: Sprouted 12 new branches.
 - 🌙 Evening rests the ecosystem. Day 119 comes to a close.
 - 🌸 Midday bloom: The canopy thickened with 102 new foliage elements.
-- 🌿 Day 119: Sprouted 9 new branches.
 
 ---
 *Generated procedurally by GitHub Actions. This repository is alive.*

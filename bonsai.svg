@@ -7430,6 +7430,21 @@
         <line x1="795.4515533754472" y1="460.0755599527313" x2="806.3422570048256" y2="435.19206966003986" stroke="#8d6e63" stroke-width="4.200000000000001" stroke-linecap="round" />
         <line x1="807.3937128044944" y1="472.26290054009917" x2="826.6389965202442" y2="458.33876418701846" stroke="#8d6e63" stroke-width="4.200000000000001" stroke-linecap="round" />
         <line x1="832.9102566153734" y1="499.2512053672322" x2="862.9776471936648" y2="489.6601022778733" stroke="#8d6e63" stroke-width="4.200000000000001" stroke-linecap="round" />
+        <line x1="584.6598408881896" y1="442.6349221362401" x2="564.4871701904295" y2="447.9337636276494" stroke="#8d6e63" stroke-width="3" stroke-linecap="round" />
+        <line x1="584.6598408881896" y1="442.6349221362401" x2="570.8256273123399" y2="427.1113355626973" stroke="#8d6e63" stroke-width="3" stroke-linecap="round" />
+        <line x1="608.8123341064548" y1="399.6250053996572" x2="596.3467887272508" y2="378.4289712494198" stroke="#8d6e63" stroke-width="3" stroke-linecap="round" />
+        <line x1="621.9719423570002" y1="398.31421845461904" x2="621.7286262153311" y2="377.8922302412075" stroke="#8d6e63" stroke-width="3" stroke-linecap="round" />
+        <line x1="623.9644394412081" y1="407.12236105755375" x2="605.4125251236072" y2="397.0817585954802" stroke="#8d6e63" stroke-width="3" stroke-linecap="round" />
+        <line x1="675.2149952681365" y1="383.44268687349035" x2="666.2244411248486" y2="359.04284161971304" stroke="#8d6e63" stroke-width="3" stroke-linecap="round" />
+        <line x1="675.2149952681365" y1="383.44268687349035" x2="686.4909759460575" y2="361.7090608364052" stroke="#8d6e63" stroke-width="3" stroke-linecap="round" />
+        <line x1="697.4441684011464" y1="396.84622752255" x2="717.3540313532978" y2="383.1026878902419" stroke="#8d6e63" stroke-width="3" stroke-linecap="round" />
+        <line x1="747.1993876018388" y1="415.7014608795906" x2="753.8263809313244" y2="398.6205118392807" stroke="#8d6e63" stroke-width="3" stroke-linecap="round" />
+        <line x1="764.0978513716346" y1="427.3309705413477" x2="786.0835731795423" y2="420.0959990944532" stroke="#8d6e63" stroke-width="3" stroke-linecap="round" />
+        <line x1="806.3422570048256" y1="435.19206966003986" x2="803.8129505990864" y2="411.97922889541104" stroke="#8d6e63" stroke-width="3" stroke-linecap="round" />
+        <line x1="806.3422570048256" y1="435.19206966003986" x2="820.8343641614531" y2="419.9103266710532" stroke="#8d6e63" stroke-width="3" stroke-linecap="round" />
+        <line x1="826.6389965202442" y1="458.33876418701846" x2="837.7458792667717" y2="441.6296804192288" stroke="#8d6e63" stroke-width="3" stroke-linecap="round" />
+        <line x1="826.6389965202442" y1="458.33876418701846" x2="845.4756427004348" y2="453.1446928594655" stroke="#8d6e63" stroke-width="3" stroke-linecap="round" />
+        <line x1="862.9776471936648" y1="489.6601022778733" x2="891.6096443556747" y2="482.63847821992977" stroke="#8d6e63" stroke-width="3" stroke-linecap="round" />
         <circle cx="706.7854863088171" cy="488.2193048881228" r="7.479735116254301" fill="#1abc9c" opacity="0.85" filter="url(#glow)" />
         <circle cx="767.8468219748398" cy="521.1208775647683" r="5.876571302016525" fill="#27ae60" opacity="0.85" filter="url(#glow)" />
         <circle cx="674.5669377034496" cy="527.7849420916367" r="7.671198038741516" fill="#e84393" opacity="0.85" filter="url(#glow)" />
@@ -7456,8 +7471,8 @@
     </g>
     
     <!-- Stats Overlay -->
-    <text x="30" y="50" fill="#ecf0f1" font-family="monospace" font-size="20">Project Yggdrasil // Epoch 120</text>
+    <text x="30" y="50" fill="#ecf0f1" font-family="monospace" font-size="20">Project Yggdrasil // Epoch 121</text>
     <text x="30" y="80" fill="#bdc3c7" font-family="monospace" font-size="14">Trees: 12</text>
-    <text x="30" y="100" fill="#bdc3c7" font-family="monospace" font-size="14">Branches: 499</text>
+    <text x="30" y="100" fill="#bdc3c7" font-family="monospace" font-size="14">Branches: 514</text>
     <text x="30" y="120" fill="#bdc3c7" font-family="monospace" font-size="14">Foliage: 6923</text>
 </svg>

@@ -1,5 +1,5 @@
 {
-  "day": 124,
+  "day": 125,
   "trees": [
     {
       "id": "tree_0",
@@ -50282,7 +50282,7 @@
           "angle": -0.38955690797059805,
           "length": 97.30812044299455,
           "depth": 2,
-          "active": true
+          "active": false
         },
         {
           "id": "b_tree_12_3",
@@ -50293,6 +50293,39 @@
           "angle": 0.34242525300497045,
           "length": 93.66667673254024,
           "depth": 2,
+          "active": false
+        },
+        {
+          "id": "b_tree_12_4",
+          "x1": 284.97357784000576,
+          "y1": 661.3468833910949,
+          "x2": 218.23432573495273,
+          "y2": 609.9064988817099,
+          "angle": -0.9141365445892995,
+          "length": 84.26292737625013,
+          "depth": 3,
+          "active": true
+        },
+        {
+          "id": "b_tree_12_5",
+          "x1": 284.97357784000576,
+          "y1": 661.3468833910949,
+          "x2": 294.7594130184295,
+          "y2": 579.535340952958,
+          "angle": 0.11904874174085778,
+          "length": 82.39472705365525,
+          "depth": 3,
+          "active": true
+        },
+        {
+          "id": "b_tree_12_6",
+          "x1": 353.37981231191765,
+          "y1": 663.1357489808856,
+          "x2": 384.366918618167,
+          "y2": 583.9119421733545,
+          "angle": 0.3728397867406362,
+          "length": 85.06828035355962,
+          "depth": 3,
           "active": true
         }
       ],
@@ -50300,6 +50333,7 @@
     }
   ],
   "logs": [
+    "🌿 Day 125: Sprouted 3 new branches.",
     "🌙 Evening rests the ecosystem. Day 124 comes to a close.",
     "🌸 Midday bloom: The canopy thickened with 122 new foliage elements.",
     "🌿 Day 124: Sprouted 2 new branches.",
@@ -50328,7 +50362,6 @@
     "🌸 Midday bloom: The canopy thickened with 117 new foliage elements.",
     "🌿 Day 116: Sprouted 2 new branches.",
     "🌙 Evening rests the ecosystem. Day 115 comes to a close.",
-    "🌸 Midday bloom: The canopy thickened with 114 new foliage elements.",
-    "🌿 Day 115: Sprouted 1 new branches."
+    "🌸 Midday bloom: The canopy thickened with 114 new foliage elements."
   ]
 }

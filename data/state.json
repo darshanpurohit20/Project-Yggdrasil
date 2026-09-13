@@ -1,5 +1,5 @@
 {
-  "day": 127,
+  "day": 128,
   "trees": [
     {
       "id": "tree_0",
@@ -52578,7 +52578,7 @@
           "angle": 0.17901165488738868,
           "length": 66.63543111155089,
           "depth": 5,
-          "active": true
+          "active": false
         },
         {
           "id": "b_tree_12_11",
@@ -52589,7 +52589,7 @@
           "angle": 0.23036628891141528,
           "length": 68.71346925276558,
           "depth": 5,
-          "active": true
+          "active": false
         },
         {
           "id": "b_tree_12_12",
@@ -52600,6 +52600,28 @@
           "angle": 0.8343800934801509,
           "length": 71.80522022348276,
           "depth": 5,
+          "active": false
+        },
+        {
+          "id": "b_tree_12_13",
+          "x1": 312.96630820269434,
+          "y1": 438.6075620565673,
+          "x2": 321.08189398188546,
+          "y2": 382.49848207012343,
+          "angle": 0.1436432660594525,
+          "length": 56.69295890553398,
+          "depth": 6,
+          "active": true
+        },
+        {
+          "id": "b_tree_12_14",
+          "x1": 497.62649130821103,
+          "y1": 487.87487152823337,
+          "x2": 542.8745096066941,
+          "y2": 451.8820020874899,
+          "angle": 0.898831427881532,
+          "length": 57.81755624823888,
+          "depth": 6,
           "active": true
         }
       ],
@@ -52614,6 +52636,7 @@
     }
   ],
   "logs": [
+    "🌿 Day 128: Sprouted 2 new branches.",
     "🌙 Evening rests the ecosystem. Day 127 comes to a close.",
     "🌸 Midday bloom: The canopy thickened with 136 new foliage elements.",
     "🌿 Day 127: Sprouted 3 new branches.",
@@ -52642,7 +52665,6 @@
     "🌸 Midday bloom: The canopy thickened with 102 new foliage elements.",
     "🌿 Day 119: Sprouted 9 new branches.",
     "🌙 Evening rests the ecosystem. Day 118 comes to a close.",
-    "🌸 Midday bloom: The canopy thickened with 110 new foliage elements.",
-    "🌿 Day 118: Sprouted 5 new branches."
+    "🌸 Midday bloom: The canopy thickened with 110 new foliage elements."
   ]
 }
